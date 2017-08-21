@@ -1,0 +1,2001 @@
+rownumber,name,ascii_name,latitude,longitude,population
+1,Esbjerg,Esbjerg,55.47028,8.45187,72205
+2,Ash Shafā,Ash Shafa,21.0721,40.31185,72190
+3,Apple Valley,Apple Valley,34.50083,-117.18588,72174
+4,Sagay,Sagay,10.94472,123.42417,72153
+5,Kyosai,Kyosai,34.85028,128.58861,72124
+6,Limbe,Limbe,4.02356,9.20607,72106
+7,Cheria,Cheria,35.27306,7.75194,72095
+8,Kuningan,Kuningan,-6.97583,108.48306,72085
+9,Arujá,Aruja,-23.39611,-46.32083,72077
+10,Nizwá,Nizwa,22.93333,57.53333,72076
+11,Jinotega,Jinotega,13.08839,-85.9994,72073
+12,Zhoucheng,Zhoucheng,35.91222,116.31167,72070
+13,Capas,Capas,15.33117,120.5898,72070
+14,Cruzeiro,Cruzeiro,-22.57316,-44.97108,72022
+15,Colonia Mariano Roque Alonso,Colonia Mariano Roque Alonso,-25.16667,-57.55,72008
+16,Larnaca,Larnaca,34.92291,33.6233,72000
+17,Purley,Purley,51.33678,-0.11201,72000
+18,Lynwood,Lynwood,33.93029,-118.21146,71989
+19,Waukesha,Waukesha,43.01168,-88.23148,71970
+20,Patrocínio,Patrocinio,-18.94389,-46.9925,71963
+21,Gouda,Gouda,52.01667,4.70833,71952
+22,Wilmington,Wilmington,39.74595,-75.54659,71948
+23,Três Rios,Tres Rios,-22.11667,-43.20917,71944
+24,Yangsan,Yangsan,35.34199,129.03358,71936
+25,Bothaville,Bothaville,-27.3887,26.61701,71934
+26,Caidian,Caidian,30.58333,114.03333,71891
+27,Canton,Canton,40.79895,-81.37845,71885
+28,Guildford,Guildford,51.23536,-0.57427,71873
+29,Afikpo,Afikpo,5.89258,7.93534,71866
+30,Bebedouro,Bebedouro,-20.94944,-48.47917,71862
+31,Gulfport,Gulfport,30.36742,-89.09282,71856
+32,Sunzha,Sunzha,43.3195,45.04911,71841
+33,Amatitlán,Amatitlan,14.4774,-90.63489,71836
+34,Chintāmani,Chintamani,13.40051,78.05172,71798
+35,Farīdpur,Faridpur,28.20997,79.54149,71783
+36,Yüksekova,Yuksekova,37.57362,44.28716,71729
+37,Birkhadem,Birkhadem,36.71499,3.05002,71722
+38,Shrewsbury,Shrewsbury,52.71009,-2.75208,71715
+39,Zaandam,Zaandam,52.43854,4.82643,71708
+40,Shakhtars’k,Shakhtars'k,48.05657,38.43826,71700
+41,Borås,Boras,57.72101,12.9401,71700
+42,Chelghoum el Aïd,Chelghoum el Aid,36.16286,6.16651,71660
+43,Apomu,Apomu,7.35156,4.18335,71656
+44,Yawata,Yawata,34.87009,135.7027,71656
+45,Xiuyan,Xiuyan,40.29278,123.27444,71614
+46,Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,45.30713,-73.26259,71613
+47,Dārayyā,Darayya,33.45835,36.23256,71596
+48,Delgado,Delgado,13.72417,-89.17028,71594
+49,Pawtucket,Pawtucket,41.87871,-71.38256,71591
+50,Pusad,Pusad,19.91274,77.57838,71588
+51,Donggongon,Donggongon,5.90702,116.10146,71585
+52,Madhubani,Madhubani,26.35367,86.07169,71582
+53,Chernogorsk,Chernogorsk,53.82361,91.28417,71582
+54,Lauderhill,Lauderhill,26.14036,-80.21338,71579
+55,Itō,Ito,34.96667,139.08333,71578
+56,Rock Hill,Rock Hill,34.92487,-81.02508,71548
+57,Monastir,Monastir,35.77799,10.82617,71546
+58,São Cristóvão,Sao Cristovao,-11.01472,-37.20639,71539
+59,Khanabad,Khanabad,36.6825,69.11556,71531
+60,Güigüe,Guigue,10.08528,-67.77917,71530
+61,Sragen,Sragen,-7.42639,111.02222,71522
+62,Sirsilla,Sirsilla,18.38865,78.81048,71499
+63,Tākestān,Takestan,36.0696,49.6959,71499
+64,Fuengirola,Fuengirola,36.53998,-4.62473,71482
+65,Solana,Solana,17.6528,121.691,71475
+66,Fiditi,Fiditi,7.71361,3.91722,71461
+67,Silver Spring,Silver Spring,38.99067,-77.02609,71452
+68,Barnsley,Barnsley,53.55,-1.48333,71447
+69,Norderstedt,Norderstedt,53.6859,9.98041,71439
+70,Yumbo,Yumbo,3.58234,-76.49146,71436
+71,Lianzhou,Lianzhou,21.66621,109.20116,71423
+72,Alfenas,Alfenas,-21.42917,-45.94722,71406
+73,Vapi,Vapi,20.37175,72.90493,71395
+74,Khanjarah,Khanjarah,40.59995,33.6153,71379
+75,Mardin,Mardin,37.31309,40.74357,71373
+76,Upington,Upington,-28.44776,21.25612,71373
+77,Zelenogorsk,Zelenogorsk,56.1124,94.5985,71354
+78,West Gulfport,West Gulfport,30.40409,-89.0942,71329
+79,Parys,Parys,-26.9033,27.45727,71319
+80,Blagoevgrad,Blagoevgrad,42.01667,23.1,71306
+81,Agios Dimitrios,Agios Dimitrios,37.93333,23.73333,71294
+82,Kazo,Kazo,36.11667,139.6,71291
+83,Yalova,Yalova,40.65501,29.27693,71289
+84,Dunkerque,Dunkerque,51.03297,2.377,71287
+85,Changtu,Changtu,42.77884,124.09545,71284
+86,Yukuhashi,Yukuhashi,33.72873,130.983,71277
+87,Bulacan,Bulacan,14.79278,120.87889,71274
+88,Lüneburg,Lueneburg,53.2509,10.41409,71260
+89,Zadar,Zadar,44.11972,15.24222,71258
+90,Abū Tīj,Abu Tij,27.04411,31.31897,71257
+91,El Pueblito,El Pueblito,20.53972,-100.44139,71254
+92,Flower Mound,Flower Mound,33.01457,-97.09696,71253
+93,Svyetlahorsk,Svyetlahorsk,52.6329,29.7389,71250
+94,Stargard,Stargard,53.33672,15.0499,71224
+95,Ijuí,Ijui,-28.38778,-53.91472,71202
+96,Anlu,Anlu,31.2575,113.67833,71198
+97,Yilan,Yilan,46.31618,129.55455,71180
+98,Bismarck,Bismarck,46.80833,-100.78374,71167
+99,Sur,Sur,22.56667,59.52889,71152
+100,Centreville,Centreville,38.84039,-77.42888,71135
+101,Taroudant,Taroudant,30.47028,-8.87695,71133
+102,Grazhdanka,Grazhdanka,60.03587,30.40518,71128
+103,Lafayette,Lafayette,40.4167,-86.87529,71111
+104,Cinisello Balsamo,Cinisello Balsamo,45.55823,9.21495,71109
+105,Thākurgaon,Thakurgaon,26.03097,88.46989,71096
+106,Passaic,Passaic,40.85677,-74.12848,71085
+107,Muyinga,Muyinga,-2.8451,30.3414,71076
+108,Guiping,Guiping,23.39336,110.07437,71066
+109,Gemlik,Gemlik,40.43094,29.15969,71063
+110,Chengyang,Chengyang,27.08917,119.64528,71053
+111,Tenri,Tenri,34.58333,135.83333,71052
+112,Riverview,Riverview,27.86614,-82.32648,71050
+113,Kāmāreddi,Kamareddi,18.32001,78.34177,71042
+114,Redlands,Redlands,34.05557,-117.18254,71035
+115,Benidorm,Benidorm,38.53816,-0.13098,71034
+116,Orita Eruwa,Orita Eruwa,7.55,3.43333,71027
+117,Zográfos,Zografos,37.97574,23.76911,71026
+118,Missoula,Missoula,46.87215,-113.994,71022
+119,Rancho Cordova,Rancho Cordova,38.58907,-121.30273,71017
+120,Celle,Celle,52.62264,10.08047,71010
+121,Bolpur,Bolpur,23.66278,87.69695,70998
+122,Rānāghāt,Ranaghat,23.17623,88.56667,70984
+123,Lowestoft,Lowestoft,52.4752,1.75159,70945
+124,Hongwŏn,Hongwon,40.02528,127.95583,70923
+125,Aubervilliers,Aubervilliers,48.91667,2.38333,70914
+126,Moabit,Moabit,52.52635,13.33903,70911
+127,Altamira,Altamira,-3.20333,-52.20639,70888
+128,Fāzilka,Fazilka,30.40207,74.02836,70887
+129,Kuandian,Kuandian,40.72861,124.78472,70867
+130,Bundaberg,Bundaberg,-24.86621,152.3479,70826
+131,Teziutlan,Teziutlan,19.8173,-97.35992,70819
+132,Vila Nova de Gaia,Vila Nova de Gaia,41.13363,-8.61742,70811
+133,Ejura,Ejura,7.38558,-1.35617,70807
+134,Gosport,Gosport,50.79509,-1.12902,70793
+135,Mīnāb,Minab,27.13104,57.08716,70790
+136,Poyang,Poyang,28.99242,116.66754,70787
+137,Yongfeng,Yongfeng,27.42829,112.18338,70783
+138,Plaridel,Plaridel,14.88722,120.85722,70781
+139,Kopeysk,Kopeysk,55.11722,61.62823,70780
+140,Eha Amufu,Eha Amufu,6.65915,7.75961,70779
+141,Södertälje,Soedertaelje,59.19554,17.62525,70777
+142,Gongchangling,Gongchangling,41.11667,123.45,70761
+143,Paracatu,Paracatu,-17.22222,-46.87472,70753
+144,Beypore,Beypore,11.17151,75.80611,70751
+145,Alytus,Alytus,54.39635,24.04142,70747
+146,Pervomays’k,Pervomays'k,48.04433,30.85073,70746
+147,Lelystad,Lelystad,52.50833,5.475,70741
+148,Jimo,Jimo,36.38972,120.46222,70733
+149,Malumfashi,Malumfashi,11.78935,7.62061,70709
+150,Carpina,Carpina,-7.85083,-35.25472,70689
+151,Gaillimh,Gaillimh,53.27194,-9.04889,70686
+152,Essaouira,Essaouira,31.5125,-9.77,70634
+153,Bukoba,Bukoba,-1.33167,31.81222,70628
+154,Antanifotsy,Antanifotsy,-19.65,47.31667,70626
+155,Lethbridge,Lethbridge,49.69999,-112.81856,70617
+156,Mindelo,Mindelo,16.89014,-24.98042,70611
+157,Dādri,Dadri,28.55257,77.55403,70609
+158,Byumba,Byumba,-1.5763,30.0675,70593
+159,Kurortnyy,Kurortnyy,60.16562,29.908,70589
+160,Dazaifu,Dazaifu,33.51278,130.52389,70587
+161,Dinslaken,Dinslaken,51.56227,6.7434,70573
+162,Sankt Gallen,Sankt Gallen,47.42391,9.37477,70572
+163,New Braunfels,New Braunfels,29.703,-98.12445,70543
+164,Pabianice,Pabianice,51.66446,19.35473,70542
+165,Tatabánya,Tatabanya,47.58494,18.39325,70541
+166,Mariano,Mariano,8.83333,125.11667,70516
+167,Auraiya,Auraiya,26.46517,79.50918,70508
+168,Lamezia Terme,Lamezia Terme,38.96255,16.30938,70501
+169,Vol’sk,Vol'sk,52.04541,47.37993,70500
+170,Nungua,Nungua,5.60105,-0.07713,70483
+171,Cherry Hill,Cherry Hill,39.93484,-75.03073,70475
+172,Baiquan,Baiquan,47.60605,126.08481,70472
+173,Beloretsk,Beloretsk,53.96306,58.39806,70468
+174,Contramaestre,Contramaestre,20.29879,-76.24511,70438
+175,Pattoki,Pattoki,31.01667,73.85,70436
+176,Ishimbay,Ishimbay,53.45446,56.04149,70421
+177,Kastamonu,Kastamonu,41.37805,33.77528,70402
+178,Pagar Alam,Pagar Alam,-4.02506,103.24694,70386
+179,Iguatu,Iguatu,-6.35944,-39.29861,70380
+180,Jiangyan,Jiangyan,32.50611,120.14278,70375
+181,Shiguai,Shiguai,40.70583,110.28556,70357
+182,Maebaru-chūō,Maebaru-chuo,33.55916,130.20148,70339
+183,Flagstaff,Flagstaff,35.19807,-111.65127,70320
+184,Sunyani,Sunyani,7.33991,-2.32676,70299
+185,Danao,Danao,10.52083,124.02722,70270
+186,Gniezno,Gniezno,52.53481,17.58259,70269
+187,Alphen aan den Rijn,Alphen aan den Rijn,52.12917,4.65546,70251
+188,Kadirli,Kadirli,37.37389,36.09611,70248
+189,Goya,Goya,-29.14395,-59.2651,70245
+190,Cho Dok,Cho Dok,10.7,105.11667,70239
+191,La Piedad,La Piedad,20.34239,-102.0305,70238
+192,Şirvan,Sirvan,39.93778,48.929,70220
+193,Schweizer-Reneke,Schweizer-Reneke,-27.18871,25.32931,70214
+194,Adler,Adler,43.42896,39.92391,70200
+195,Fuyang,Fuyang,30.05333,119.95194,70183
+196,Xiashi,Xiashi,30.53629,120.68638,70171
+197,Doğubayazıt,Dogubayazit,39.54694,44.08417,70171
+198,Karakol,Karakol,42.49068,78.39362,70171
+199,Alcalá de Guadaira,Alcala de Guadaira,37.33791,-5.83951,70155
+200,Chapayevsk,Chapayevsk,52.9771,49.7086,70147
+201,Bāpatla,Bapatla,15.90422,80.46743,70117
+202,Taungdwingyi,Taungdwingyi,20.0065,95.54531,70094
+203,Lisala,Lisala,2.15127,21.51672,70087
+204,Muncie,Muncie,40.19338,-85.38636,70087
+205,Payyannūr,Payyannur,12.0935,75.20249,70069
+206,Bamberg,Bamberg,49.89873,10.90067,70047
+207,Khāliş,Khalis,33.80809,44.53343,70046
+208,Luxu,Luxu,23.22378,108.80217,70013
+209,Ciudad Sandino,Ciudad Sandino,12.15889,-86.34417,70013
+210,Cannes,Cannes,43.55135,7.01275,70011
+211,Tiflet,Tiflet,33.89469,-6.30649,70010
+212,Kladno,Kladno,50.14734,14.10285,70003
+213,Maple Ridge,Maple Ridge,49.21939,-122.60193,70000
+214,Southall,Southall,51.50896,-0.3713,70000
+215,Mira Mesa,Mira Mesa,32.9156,-117.14392,70000
+216,Woodland Hills,Woodland Hills,34.16834,-118.60592,70000
+217,Chenāb Nagar,Chenab Nagar,31.75511,72.91403,70000
+218,Fordon,Fordon,53.14821,18.17036,70000
+219,Baikonur,Baikonur,45.61667,63.31667,70000
+220,Dainava (Kaunas),Dainava (Kaunas),54.91525,23.96831,70000
+221,Ho,Ho,6.60084,0.4713,69998
+222,Le Tampon,Le Tampon,-21.28309,55.51802,69986
+223,Weston,Weston,26.10037,-80.39977,69959
+224,Aigáleo,Aigaleo,37.98333,23.68333,69946
+225,Mengcheng Chengguanzhen,Mengcheng Chengguanzhen,33.26611,116.56605,69916
+226,Wangkui,Wangkui,46.83283,126.47768,69915
+227,Abhar,Abhar,36.1468,49.218,69889
+228,Güira de Melena,Guira de Melena,22.79613,-82.50667,69879
+229,Talipparamba,Talipparamba,12.04161,75.35927,69878
+230,Mertoyudan,Mertoyudan,-7.52,110.22639,69871
+231,Votuporanga,Votuporanga,-20.42278,-49.97278,69863
+232,Consolación del Sur,Consolacion del Sur,22.50419,-83.51442,69857
+233,Tindivanam,Tindivanam,12.234,79.65551,69839
+234,Segamat,Segamat,2.5148,102.8158,69816
+235,San Miguel de Allende,San Miguel de Allende,20.91528,-100.74389,69811
+236,Mérignac,Merignac,44.83248,-0.63381,69791
+237,Trnava,Trnava,48.37741,17.58723,69785
+238,Bondowoso,Bondowoso,-7.91346,113.82145,69783
+239,Kohror Pakka,Kohror Pakka,29.62382,71.91673,69743
+240,Sidi Aïssa,Sidi Aissa,35.88548,3.77236,69740
+241,Totonicapán,Totonicapan,14.91167,-91.36111,69734
+242,Dehdasht,Dehdasht,30.7949,50.56457,69726
+243,Kaura Namoda,Kaura Namoda,12.59371,6.58648,69725
+244,Techiman,Techiman,7.58617,-1.94137,69720
+245,Las Piedras,Las Piedras,-34.7302,-56.21915,69682
+246,Dabou,Dabou,5.32556,-4.37685,69661
+247,Chālūs,Chalus,36.655,51.4204,69638
+248,Arba Minch,Arba Minch,6.03333,37.55,69622
+249,Paragominas,Paragominas,-2.96667,-47.48333,69613
+250,Khāsh,Khash,28.22107,61.21582,69603
+251,Tuy Hòa,Tuy Hoa,13.09546,109.32094,69596
+252,Brossard,Brossard,45.45008,-73.46583,69575
+253,Tanabe,Tanabe,33.73333,135.36667,69563
+254,Shirpur,Shirpur,21.34821,74.88035,69540
+255,Linares,Linares,-35.84667,-71.59308,69535
+256,Frederick,Frederick,39.41427,-77.41054,69479
+257,Lins,Lins,-21.67861,-49.7425,69451
+258,Villa Carlos Paz,Villa Carlos Paz,-31.42414,-64.49778,69451
+259,Pasco,Pasco,46.23958,-119.10057,69451
+260,Syriam,Syriam,16.76887,96.24503,69448
+261,Pittsburg,Pittsburg,38.02798,-121.88468,69424
+262,Sayyān,Sayyan,15.17177,44.32442,69404
+263,Jaboticabal,Jaboticabal,-21.25472,-48.32222,69394
+264,Gujar Khān,Gujar Khan,33.25411,73.30433,69374
+265,Kungsholmen,Kungsholmen,59.33183,18.04118,69363
+266,Kot Malik Barkhurdār,Kot Malik Barkhurdar,30.20379,66.98723,69359
+267,Isnā,Isna,25.29336,32.55402,69335
+268,Chūhar Kāna,Chuhar Kana,31.75,73.8,69321
+269,Palatine,Palatine,42.1103,-88.03424,69308
+270,Kampong Baharu Balakong,Kampong Baharu Balakong,3.03333,101.75,69302
+271,Larbaâ,Larbaa,36.56471,3.15434,69298
+272,Bāsoda,Basoda,23.85153,77.93652,69278
+273,Bafia,Bafia,4.75,11.23333,69270
+274,Arauca,Arauca,7.08471,-70.75908,69264
+275,Anseong,Anseong,37.01083,127.27028,69255
+276,Jiehu,Jiehu,35.54278,118.455,69245
+277,Vaslui,Vaslui,46.63333,27.73333,69225
+278,Hasselt,Hasselt,50.93106,5.33781,69222
+279,Suwałki,Suwalki,54.11175,22.93087,69222
+280,Stafford,Stafford,52.80521,-2.11636,69217
+281,North Richland Hills,North Richland Hills,32.8343,-97.2289,69204
+282,Ōmihachiman,Omihachiman,35.12861,136.0976,69189
+283,Union City,Union City,40.77955,-74.02375,69156
+284,Kissimmee,Kissimmee,28.30468,-81.41667,69152
+285,Linjiang,Linjiang,41.80694,126.90778,69149
+286,Hunedoara,Hunedoara,45.75,22.9,69136
+287,Las Cumbres,Las Cumbres,9.08916,-79.52809,69102
+288,Giurgiu,Giurgiu,43.88333,25.96667,69067
+289,Toba Tek Singh,Toba Tek Singh,30.97433,72.48269,69064
+290,Tantou,Tantou,26.03033,119.59739,69050
+291,Jorhāt,Jorhat,26.75751,94.20306,69033
+292,Nganjuk,Nganjuk,-7.6051,111.9035,69011
+293,Ostend,Ostend,51.21551,2.927,69011
+294,Sint-Niklaas,Sint-Niklaas,51.16509,4.1437,69010
+295,Xiaoshi,Xiaoshi,41.29711,124.12092,68994
+296,Denov,Denov,38.26746,67.89886,68994
+297,Magalang,Magalang,15.2151,120.6596,68988
+298,Bogale,Bogale,16.29415,95.39742,68938
+299,Güines,Gueines,22.83727,-82.02641,68935
+300,Royal Tunbridge Wells,Royal Tunbridge Wells,51.13321,0.26256,68910
+301,Walnut Creek,Walnut Creek,37.90631,-122.06496,68910
+302,Manbij,Manbij,36.52815,37.95495,68888
+303,Saku,Saku,36.21667,138.48333,68885
+304,Hekinan,Hekinan,34.88333,136.98333,68872
+305,Hoorn,Hoorn,52.6425,5.05972,68852
+306,Libon,Libon,13.2997,123.4386,68846
+307,Wum,Wum,6.38333,10.06667,68836
+308,Chulucanas,Chulucanas,-5.0925,-80.1625,68835
+309,Mila,Mila,36.45028,6.26444,68831
+310,Tuymazy,Tuymazy,54.60666,53.7097,68829
+311,Sindhnūr,Sindhnur,15.76983,76.75581,68793
+312,Sukagawa,Sukagawa,37.28333,140.38333,68790
+313,Enugu-Ukwu,Enugu-Ukwu,6.17146,7.00525,68785
+314,Ga-Rankuwa,Ga-Rankuwa,-25.61692,27.99471,68767
+315,Abnūb,Abnub,27.2696,31.15105,68749
+316,Ponferrada,Ponferrada,42.54664,-6.59619,68736
+317,Fukuchiyama,Fukuchiyama,35.3,135.11667,68735
+318,Jinjiang,Jinjiang,19.72878,110.00851,68720
+319,Kamloops,Kamloops,50.66648,-120.3192,68714
+320,Bir el Ater,Bir el Ater,34.74488,8.06024,68703
+321,Idah,Idah,7.11345,6.73866,68703
+322,Viçosa,Vicosa,-20.75389,-42.88194,68680
+323,Bargarh,Bargarh,21.33348,83.61905,68670
+324,Lys’va,Lys'va,58.10861,57.80528,68660
+325,Knysna,Knysna,-34.03627,23.04713,68659
+326,São Sebastião do Paraíso,Sao Sebastiao do Paraiso,-20.91694,-46.99139,68654
+327,Sougueur,Sougueur,35.18568,1.49612,68654
+328,Mount Vernon,Mount Vernon,40.9126,-73.83708,68628
+329,Wāshīm,Washim,20.11128,77.133,68622
+330,Visnagar,Visnagar,23.69855,72.5521,68619
+331,Heishan,Heishan,41.68917,122.11278,68603
+332,Conroe,Conroe,30.31188,-95.45605,68602
+333,San Mateo Atenco,San Mateo Atenco,19.26757,-99.53214,68602
+334,Borisoglebsk,Borisoglebsk,51.36713,42.08494,68597
+335,Obonoma,Obonoma,4.71131,6.79084,68584
+336,Moriyama,Moriyama,35.06667,135.98333,68584
+337,Dothan,Dothan,31.22323,-85.39049,68567
+338,Sosnovyy Bor,Sosnovyy Bor,59.8996,29.08574,68563
+339,Feodosiya,Feodosiya,45.03677,35.37789,68562
+340,Palwancha,Palwancha,17.58152,80.67651,68561
+341,Aschaffenburg,Aschaffenburg,49.97704,9.15214,68551
+342,Sabanalarga,Sabanalarga,10.62962,-74.92063,68535
+343,Głogów,Glogow,51.66361,16.0845,68530
+344,Keshod,Keshod,21.30328,70.24861,68518
+345,Binhe,Binhe,32.68833,112.8275,68514
+346,Chinchiná,Chinchina,4.9825,-75.60361,68512
+347,Budapest XVI. kerület,Budapest XVI. keruelet,47.51482,19.17028,68484
+348,Tsuruga,Tsuruga,35.64547,136.0558,68482
+349,Northridge,Northridge,34.22834,-118.53675,68469
+350,Waterloo,Waterloo,42.49276,-92.34296,68460
+351,Tanauan,Tanauan,14.08627,121.14975,68456
+352,Kānnangād,Kannangad,12.30814,75.10632,68450
+353,Guasave,Guasave,25.56745,-108.46756,68449
+354,Pengcheng,Pengcheng,36.43111,114.17,68442
+355,Aïn Fakroun,Ain Fakroun,35.97108,6.87374,68433
+356,Rivas-Vaciamadrid,Rivas-Vaciamadrid,40.32605,-3.51089,68405
+357,Al Qūşīyah,Al Qusiyah,27.4402,30.81841,68394
+358,Maple Grove,Maple Grove,45.07246,-93.45579,68385
+359,Al Jammālīyah,Al Jammaliyah,31.18065,31.86497,68381
+360,Shima,Shima,24.44647,117.81216,68375
+361,Bīsalpur,Bisalpur,28.29253,79.80472,68355
+362,Mingguang,Mingguang,32.78017,117.96378,68351
+363,Ninghai,Ninghai,29.28917,121.42472,68330
+364,Framingham,Framingham,42.27926,-71.41617,68318
+365,San Isidro,San Isidro,-12.11667,-77.05,68309
+366,Türkmenbaşy,Turkmenbasy,40.02216,52.95517,68292
+367,Nārowāl,Narowal,32.10197,74.87303,68291
+368,Tanuku,Tanuku,16.75438,81.68143,68290
+369,Al Faḩāḩīl,Al Fahahil,29.0825,48.13028,68290
+370,Saldanha,Saldanha,-33.01167,17.9442,68284
+371,Krasnoarmiys’k,Krasnoarmiys'k,48.28198,37.17585,68263
+372,Dolgoprudnyy,Dolgoprudnyy,55.94958,37.50183,68259
+373,Bunbury,Bunbury,-33.32711,115.64137,68248
+374,Tolga,Tolga,34.72224,5.37845,68246
+375,Lodja,Lodja,-3.52105,23.6005,68244
+376,Söke,Soeke,37.7482,27.40614,68230
+377,Attili,Attili,16.7,81.6,68196
+378,Redondo Beach,Redondo Beach,33.84918,-118.38841,68166
+379,Matsutō,Matsuto,36.51667,136.56667,68159
+380,Langarūd,Langarud,37.19701,50.15351,68148
+381,Bālotra,Balotra,25.83242,72.24,68120
+382,Majadahonda,Majadahonda,40.47353,-3.87182,68110
+383,Kuqa,Kuqa,41.72778,82.93639,68105
+384,Bossier City,Bossier City,32.51599,-93.73212,68094
+385,Es Senia,Es Senia,35.64779,-0.62397,68084
+386,Neubrandenburg,Neubrandenburg,53.56414,13.27532,68082
+387,Catbalogan,Catbalogan,11.77528,124.88611,68081
+388,Artemisa,Artemisa,22.81667,-82.75944,68073
+389,Balsas,Balsas,-7.5325,-46.03556,68056
+390,Pithampur,Pithampur,22.60197,75.69649,68051
+391,Chełm,Chelm,51.14312,23.4716,68043
+392,Torez,Torez,48.03876,38.59685,68037
+393,Bir el Djir,Bir el Djir,35.72,-0.545,68032
+394,Munnar,Munnar,10.08818,77.06239,68000
+395,Sverdlovs’k,Sverdlovs'k,48.08964,39.65243,68000
+396,Dorogomilovo,Dorogomilovo,55.75,37.56667,68000
+397,Santa Catarina Pinula,Santa Catarina Pinula,14.56889,-90.49528,67994
+398,Cadereyta,Cadereyta,25.58333,-99.98333,67994
+399,Chamrajnagar,Chamrajnagar,11.92312,76.93949,67992
+400,Bourges,Bourges,47.08333,2.4,67987
+401,Pattukkottai,Pattukkottai,10.42358,79.31949,67982
+402,Yorba Linda,Yorba Linda,33.88863,-117.81311,67973
+403,Ardeşen,Ardesen,41.19111,40.9875,67965
+404,Chaihe,Chaihe,44.7598,129.67826,67963
+405,Budënnovsk,Budennovsk,44.78389,44.16583,67962
+406,Minggang,Minggang,32.45861,114.04861,67945
+407,Tangzhai,Tangzhai,34.43278,116.59111,67936
+408,Itatiba,Itatiba,-23.00583,-46.83889,67934
+409,Barberton,Barberton,-25.78842,31.05319,67927
+410,Calbayog City,Calbayog City,12.0668,124.5962,67921
+411,Belogorsk,Belogorsk,50.91644,128.47726,67911
+412,Most,Most,50.50301,13.63617,67905
+413,Campiña,Campina,38.21896,-2.98069,67904
+414,Concepción del Uruguay,Concepcion del Uruguay,-32.48249,-58.23722,67895
+415,Garissa,Garissa,-0.45275,39.64601,67861
+416,Woodbury,Woodbury,44.92386,-92.95938,67855
+417,Altamura,Altamura,40.82664,16.54952,67821
+418,Dongfeng,Dongfeng,42.64031,125.51176,67820
+419,Roman,Roman,46.92119,26.92646,67819
+420,Bârlad,Barlad,46.23175,27.66907,67818
+421,Deva,Deva,45.88333,22.9,67802
+422,Khanty-Mansiysk,Khanty-Mansiysk,61.00417,69.00194,67800
+423,Dayrūţ,Dayrut,27.55602,30.80764,67788
+424,Tamano,Tamano,34.48333,133.95,67786
+425,Quillota,Quillota,-32.88341,-71.24882,67779
+426,Eau Claire,Eau Claire,44.81135,-91.49849,67778
+427,Ellesmere Port,Ellesmere Port,53.27875,-2.90134,67768
+428,Saraburi,Saraburi,14.53333,100.91667,67763
+429,Ishim,Ishim,56.11281,69.49015,67762
+430,Zhenlai,Zhenlai,45.84955,123.2973,67760
+431,Velsen-Zuid,Velsen-Zuid,52.46,4.65,67758
+432,Waldorf,Waldorf,38.62456,-76.93914,67752
+433,Kaposvár,Kaposvar,46.36667,17.8,67746
+434,Tournai,Tournai,50.60715,3.38932,67721
+435,Matehuala,Matehuala,23.64824,-100.64334,67717
+436,Forest Hills,Forest Hills,40.71621,-73.85014,67714
+437,Al Khārijah,Al Kharijah,25.45141,30.54635,67700
+438,Kalush,Kalush,49.01187,24.37308,67698
+439,Dāmghān,Damghan,36.1679,54.34292,67694
+440,Miramar,Miramar,22.32085,-97.8595,67689
+441,Songjianghe,Songjianghe,42.1859,127.47895,67672
+442,Ede,Ede,52.03333,5.65833,67670
+443,Davis,Davis,38.54491,-121.74052,67666
+444,Subic,Subic,14.87999,120.23433,67664
+445,Tsushima,Tsushima,35.16667,136.71667,67658
+446,Pālang,Palang,23.21824,90.35076,67652
+447,Glen Burnie,Glen Burnie,39.16261,-76.62469,67639
+448,Yafran,Yafran,32.06329,12.52859,67638
+449,Juchitán de Zaragoza,Juchitan de Zaragoza,16.43603,-95.01975,67637
+450,Agbor,Agbor,6.25375,6.1942,67610
+451,Camarillo,Camarillo,34.21639,-119.0376,67608
+452,Jaisalmer,Jaisalmer,26.91763,70.90387,67604
+453,Toukh,Toukh,30.35394,31.20071,67599
+454,Luorong,Luorong,24.40583,109.60861,67593
+455,Victoria,Victoria,28.80527,-97.0036,67574
+456,Bislig,Bislig,8.21528,126.31639,67567
+457,Smila,Smila,49.22242,31.88714,67530
+458,Guidonia Montecelio,Guidonia Montecelio,41.99362,12.72238,67516
+459,Soio,Soio,-6.1349,12.36894,67491
+460,Al Manzalah,Al Manzalah,31.15823,31.936,67486
+461,Arāria,Araria,26.14934,87.51323,67474
+462,Gaithersburg,Gaithersburg,39.14344,-77.20137,67456
+463,Shorkot,Shorkot,31.91023,70.87757,67439
+464,Wenling,Wenling,28.37524,121.38416,67433
+465,Chaguanas,Chaguanas,10.51667,-61.41667,67433
+466,Santa Inês,Santa Ines,-3.66667,-45.38,67424
+467,Ezza-Ohu,Ezza-Ohu,6.44094,8.08432,67414
+468,Rossendale,Rossendale,53.68456,-2.2769,67400
+469,Fuqing,Fuqing,25.725,119.37944,67397
+470,Harda Khās,Harda Khas,22.34414,77.09536,67387
+471,Nakatsu,Nakatsu,33.59811,131.1883,67372
+472,Caohe,Caohe,30.2297,115.43346,67370
+473,Eskilstuna,Eskilstuna,59.36661,16.5077,67359
+474,Jacksonville,Jacksonville,34.75405,-77.43024,67357
+475,Dimbokro,Dimbokro,6.64678,-4.70519,67349
+476,City of Isabela,City of Isabela,6.70407,121.97117,67336
+477,Sangamner,Sangamner,19.56784,74.21154,67309
+478,Tejen,Tejen,37.38338,60.50545,67294
+479,San Luis,San Luis,20.18809,-75.85031,67293
+480,Mukono,Mukono,0.35333,32.75528,67290
+481,Pingzhuang,Pingzhuang,42.03722,119.28889,67273
+482,South San Francisco,South San Francisco,37.65466,-122.40775,67271
+483,Kasese,Kasese,0.18333,30.08333,67269
+484,Shāhdādpur,Shahdadpur,25.92539,68.6228,67249
+485,Tubarão,Tubarao,-28.46667,-49.00694,67245
+486,Kstovo,Kstovo,56.14733,44.19787,67242
+487,Lippstadt,Lippstadt,51.67369,8.34482,67219
+488,Jaorā,Jaora,23.63783,75.12711,67203
+489,Tomaszów Mazowiecki,Tomaszow Mazowiecki,51.53131,20.00855,67197
+490,Shiojiri,Shiojiri,36.1,137.96667,67159
+491,Louga,Louga,15.61867,-16.22436,67154
+492,Ödemiş,OEdemis,38.2278,27.96955,67153
+493,Fengkou,Fengkou,30.08268,113.33346,67139
+494,Néa Ionía,Nea Ionia,38.0357,23.75733,67134
+495,Mbaïki,Mbaiki,3.86781,17.98923,67132
+496,Maitland,Maitland,-32.73308,151.5574,67132
+497,Bet Shemesh,Bet Shemesh,31.73072,34.99293,67100
+498,Kenner,Kenner,29.99409,-90.24174,67091
+499,Melati,Melati,-7.73333,110.36667,67090
+500,Aalen,Aalen,48.83777,10.0933,67085
+501,Jackson Heights,Jackson Heights,40.75566,-73.88541,67067
+502,Chiryū,Chiryu,35,137.03333,67062
+503,Saint-Nazaire,Saint-Nazaire,47.28333,-2.2,67054
+504,Przemyśl,Przemysl,49.78498,22.76728,67013
+505,Buldāna,Buldana,20.52933,76.18457,66991
+506,Narva,Narva,59.37722,28.19028,66980
+507,Rockville,Rockville,39.084,-77.15276,66980
+508,Liuhe,Liuhe,42.24007,125.71717,66975
+509,Jackson,Jackson,35.61452,-88.81395,66975
+510,Bima,Bima,-8.46006,118.72667,66970
+511,San Francisco del Rincón,San Francisco del Rincon,21.01843,-101.85515,66949
+512,Mettupalayam,Mettupalayam,11.29971,76.93485,66944
+513,Yuba City,Yuba City,39.14045,-121.61691,66941
+514,Solna,Solna,59.36004,18.00086,66909
+515,Anjār,Anjar,23.11316,70.02671,66888
+516,Aleksin,Aleksin,54.50503,37.0674,66885
+517,Portland,Portland,43.66147,-70.25533,66881
+518,Palo Alto,Palo Alto,37.44188,-122.14302,66853
+519,Wacheng,Wacheng,33.78333,114.51667,66848
+520,Oulad Teïma,Oulad Teima,30.39467,-9.20897,66832
+521,Ambovombe,Ambovombe,-25.17838,46.08722,66818
+522,Neuwied,Neuwied,50.4336,7.47057,66805
+523,Casas Adobes,Casas Adobes,32.32341,-110.9951,66795
+524,Bajos de Haina,Bajos de Haina,18.41538,-70.03317,66784
+525,Marysville,Marysville,48.05176,-122.17708,66773
+526,Unna,Unna,51.53795,7.68969,66734
+527,Dambulla,Dambulla,7.86,80.65167,66716
+528,Trang,Trang,7.55633,99.61141,66713
+529,Baní,Bani,18.27964,-70.33185,66709
+530,Sayhāt,Sayhat,26.48522,50.04046,66702
+531,Parnas,Parnas,60.06964,30.3487,66693
+532,Bakıxanov,Bakixanov,40.41894,49.96693,66686
+533,Dinalupihan,Dinalupihan,14.87827,120.45221,66670
+534,Bellampalli,Bellampalli,19.05577,79.493,66660
+535,Akbou,Akbou,36.4575,4.53494,66654
+536,South Jordan,South Jordan,40.56217,-111.92966,66648
+537,Channapatna,Channapatna,12.65143,77.20672,66647
+538,Takayama,Takayama,36.13333,137.25,66636
+539,Ratangarh,Ratangarh,28.08137,74.61854,66625
+540,Tailai,Tailai,46.38909,123.41371,66623
+541,Quartu Sant'Elena,Quartu Sant'Elena,39.22935,9.25004,66620
+542,La Mohammedia,La Mohammedia,36.67446,10.15633,66593
+543,Lod,Lod,31.9467,34.8903,66589
+544,Chengyang,Chengyang,35.57944,118.83278,66588
+545,Sanchazi,Sanchazi,42.08167,126.60028,66576
+546,Maharagama,Maharagama,6.848,79.9265,66576
+547,Kalulushi,Kalulushi,-12.84151,28.09479,66575
+548,Fīrūzābād,Firuzabad,28.8438,52.5707,66558
+549,Oshkosh,Oshkosh,44.02471,-88.54261,66555
+550,Savannakhét,Savannakhet,16.56505,104.75273,66553
+551,Shabqadar,Shabqadar,34.21599,71.5548,66541
+552,North Little Rock,North Little Rock,34.76954,-92.26709,66504
+553,Lianyuan,Lianyuan,27.68833,111.66417,66501
+554,Homestead,Homestead,25.46872,-80.47756,66498
+555,Stalowa Wola,Stalowa Wola,50.58286,22.05334,66495
+556,Mānsehra,Mansehra,34.33023,73.19679,66486
+557,Sokaraja,Sokaraja,-7.45806,109.28806,66482
+558,Bayside,Bayside,40.76844,-73.77708,66455
+559,White Rock,White Rock,49.01636,-122.8026,66450
+560,Wuxi,Wuxi,26.5844,111.859,66442
+561,Vicálvaro,Vicalvaro,40.4,-3.6,66439
+562,Folkestone,Folkestone,51.08169,1.16734,66429
+563,Krishnagiri,Krishnagiri,12.51921,78.21382,66419
+564,Plauen,Plauen,50.4973,12.13782,66412
+565,Kovel’,Kovel',51.21526,24.70867,66400
+566,Rishīkesh,Rishikesh,30.10778,78.29255,66390
+567,Kungur,Kungur,57.4368,56.9593,66389
+568,Goyerkāta,Goyerkata,26.69984,89.02565,66358
+569,Klintsy,Klintsy,52.76019,32.23935,66336
+570,Tōgane,Togane,35.55,140.36667,66332
+571,Neryungri,Neryungri,56.66637,124.63825,66320
+572,Huinan,Huinan,42.6225,126.26139,66315
+573,Bayonne,Bayonne,40.66871,-74.11431,66311
+574,Brixton,Brixton,51.46593,-0.10652,66300
+575,Zamora,Zamora,41.50633,-5.74456,66293
+576,Sabae,Sabae,35.94647,136.18498,66291
+577,Besbes,Besbes,36.70222,7.84722,66287
+578,Eagan,Eagan,44.80413,-93.16689,66286
+579,Leninogorsk,Leninogorsk,54.60256,52.46087,66263
+580,Bergen op Zoom,Bergen op Zoom,51.495,4.29167,66256
+581,Delray Beach,Delray Beach,26.46146,-80.07282,66255
+582,Chāībāsa,Chaibasa,22.54825,85.80458,66252
+583,Loures,Loures,38.83091,-9.16845,66231
+584,Sosnovka,Sosnovka,60.01667,30.35,66227
+585,Saint-Marc,Saint-Marc,19.10819,-72.69379,66226
+586,Rajin,Rajin,42.24889,130.30028,66224
+587,Veliko Tŭrnovo,Veliko Turnovo,43.08124,25.62904,66217
+588,Luoyang,Luoyang,24.95938,118.683,66188
+589,Mandamarri,Mandamarri,18.96506,79.47475,66176
+590,Gabrovo,Gabrovo,42.87472,25.33417,66175
+591,Bamiantong,Bamiantong,44.91738,130.52,66170
+592,Burdur,Burdur,37.72028,30.29083,66158
+593,Huanren,Huanren,41.26472,125.36667,66147
+594,Qionghu,Qionghu,28.84061,112.37399,66145
+595,I‘zāz,I`zaz,36.58662,37.04628,66138
+596,Halmstad,Halmstad,56.67446,12.85676,66124
+597,Gamping Lor,Gamping Lor,-7.79556,110.32639,66110
+598,Huanan,Huanan,46.2207,130.525,66087
+599,Palani,Palani,10.45034,77.5209,66085
+600,Alba Iulia,Alba Iulia,46.06667,23.58333,66085
+601,Gukovo,Gukovo,48.06212,39.9355,66079
+602,Sagunto,Sagunto,39.68333,-0.26667,66070
+603,Morón,Moron,22.10774,-78.62667,66060
+604,Sampit,Sampit,-2.5315,112.9496,66053
+605,Nārnaul,Narnaul,28.04444,76.10833,66049
+606,Zhangjiagang,Zhangjiagang,31.865,120.53889,66039
+607,Zamość,Zamosc,50.72314,23.25196,66034
+608,Xiaolingwei,Xiaolingwei,32.03244,118.854,66031
+609,Johnson City,Johnson City,36.31344,-82.35347,66027
+610,Cabinda,Cabinda,-5.55,12.2,66020
+611,Rosarito,Rosarito,32.36044,-117.04645,66020
+612,Dharmapuri,Dharmapuri,12.1277,78.15794,66017
+613,Fatehābād,Fatehabad,29.51525,75.45554,66013
+614,Calapan,Calapan,13.4117,121.1803,66008
+615,Beidaihehaibin,Beidaihehaibin,39.82222,119.51806,66000
+616,Dale City,Dale City,38.63706,-77.31109,65969
+617,Silvan,Silvan,38.13708,41.00817,65956
+618,Shujāābād,Shujaabad,29.87967,71.29313,65952
+619,Cedar Park,Cedar Park,30.5052,-97.82029,65945
+620,Lesosibirsk,Lesosibirsk,58.23583,92.48278,65945
+621,Soma,Soma,39.18554,27.60945,65934
+622,Jablah,Jablah,35.36211,35.92759,65915
+623,Niitsu-honchō,Niitsu-honcho,37.80024,139.1224,65910
+624,Lahat,Lahat,-3.78514,103.54279,65906
+625,Tanabe,Tanabe,34.82242,135.76604,65903
+626,Rotorua,Rotorua,-38.13874,176.24516,65901
+627,Vilanova i la Geltrú,Vilanova i la Geltru,41.22392,1.72511,65890
+628,Mengyin,Mengyin,35.70694,117.92639,65889
+629,Parkchester,Parkchester,40.83899,-73.86041,65876
+630,Lichtenburg,Lichtenburg,-26.152,26.15968,65863
+631,Atascocita,Atascocita,29.99883,-95.1766,65844
+632,Saint Cloud,Saint Cloud,45.5608,-94.16249,65842
+633,Ellicott City,Ellicott City,39.26733,-76.79831,65834
+634,Palāsa,Palasa,18.77257,84.41012,65833
+635,Xiangcheng Chengguanzhen,Xiangcheng Chengguanzhen,33.84703,113.4778,65833
+636,Kashima-shi,Kashima-shi,35.96536,140.64474,65814
+637,Laguna Niguel,Laguna Niguel,33.52253,-117.70755,65806
+638,Basavakalyān,Basavakalyan,17.87445,76.94972,65805
+639,Sanlúcar de Barrameda,Sanlucar de Barrameda,36.77808,-6.3515,65805
+640,Saint Charles,Saint Charles,38.78394,-90.48123,65794
+641,Harlingen,Harlingen,26.19063,-97.6961,65774
+642,Polevskoy,Polevskoy,56.44222,60.18778,65770
+643,Pato Branco,Pato Branco,-26.22861,-52.67056,65754
+644,Pavia,Pavia,45.19205,9.15917,65734
+645,Castellammare di Stabia,Castellammare di Stabia,40.70211,14.48685,65730
+646,Mooka,Mooka,36.43333,140.01667,65717
+647,Wrexham,Wrexham,53.04664,-2.99132,65692
+648,Chingleput,Chingleput,12.69184,79.97661,65689
+649,Dashitou,Dashitou,43.30667,128.51139,65683
+650,San Ildefonso,San Ildefonso,15.0809,120.941,65669
+651,San Miguel,San Miguel,15.1423,120.97568,65661
+652,Al Marsá,Al Marsa,36.87818,10.32466,65640
+653,Kędzierzyn-Koźle,Kedzierzyn-Kozle,50.34984,18.22606,65636
+654,Qingyang,Qingyang,37.49583,121.25806,65622
+655,Babu,Babu,24.41667,111.51667,65603
+656,Pyapon,Pyapon,16.28543,95.67882,65601
+657,Chopda,Chopda,21.24578,75.29946,65598
+658,Paulínia,Paulinia,-22.76111,-47.15417,65595
+659,Bais,Bais,9.59111,123.12278,65594
+660,Estepona,Estepona,36.42764,-5.14589,65592
+661,Panaji,Panaji,15.49574,73.82624,65586
+662,Ioánnina,Ioannina,39.66486,20.85189,65574
+663,Caldas,Caldas,6.09106,-75.63569,65565
+664,Prince George,Prince George,53.9166,-122.75301,65558
+665,Yebaishou,Yebaishou,41.3975,119.64083,65536
+666,Huaiyuan Chengguanzhen,Huaiyuan Chengguanzhen,32.95893,117.16566,65530
+667,San Clemente,San Clemente,33.42697,-117.61199,65526
+668,West Lynchburg,West Lynchburg,37.4032,-79.17808,65517
+669,Thenkasi,Thenkasi,8.96003,77.31525,65496
+670,Peñaflor,Penaflor,-33.60627,-70.87649,65495
+671,Dār Kulayb,Dar Kulayb,26.06861,50.50389,65466
+672,Afgooye,Afgooye,2.1381,45.1212,65461
+673,Torremolinos,Torremolinos,36.62035,-4.49976,65448
+674,Sattahip,Sattahip,12.66644,100.90073,65444
+675,Framingham Center,Framingham Center,42.29732,-71.43701,65413
+676,Xincheng,Xincheng,33.63333,115.18333,65411
+677,Shiki,Shiki,35.83333,139.58333,65411
+678,Lajeado,Lajeado,-29.46694,-51.96139,65407
+679,Colmar,Colmar,48.08333,7.36667,65405
+680,Rechytsa,Rechytsa,52.3617,30.3916,65400
+681,Tendō,Tendo,38.35361,140.36972,65393
+682,Torquay,Torquay,50.46198,-3.52522,65388
+683,Bangangté,Bangangte,5.14079,10.52535,65385
+684,Växjö,Vaexjoe,56.87767,14.80906,65383
+685,Bianzhuang,Bianzhuang,34.84861,118.04472,65381
+686,Yādgīr,Yadgir,16.77007,77.13755,65376
+687,Masaka,Masaka,-0.33379,31.73409,65373
+688,Meleuz,Meleuz,52.96467,55.93277,65362
+689,Tultepec,Tultepec,19.685,-99.12806,65338
+690,Kumertau,Kumertau,52.76667,55.78333,65321
+691,Gangārāmpur,Gangarampur,25.40138,88.52978,65316
+692,Ramanathapuram,Ramanathapuram,9.37158,78.83077,65314
+693,Herten,Herten,51.59638,7.14387,65306
+694,Jagraon,Jagraon,30.78783,75.47391,65305
+695,Schenectady,Schenectady,42.81424,-73.93957,65305
+696,Perai,Perai,5.38333,100.38333,65301
+697,Hepingjie,Hepingjie,42.05972,126.91583,65298
+698,Haveli Lakha,Haveli Lakha,30.45097,73.69371,65289
+699,Cruz Alta,Cruz Alta,-28.63861,-53.60639,65275
+700,Talisay,Talisay,10.7375,122.9666,65265
+701,Tulungagung,Tulungagung,-8.0657,111.9025,65262
+702,Capelle aan den IJssel,Capelle aan den IJssel,51.92917,4.57778,65255
+703,Gushikawa,Gushikawa,26.35937,127.86735,65251
+704,Békéscsaba,Bekescsaba,46.68333,21.1,65206
+705,Lāla Mūsa,Lala Musa,32.70138,73.95746,65197
+706,Slavyansk-na-Kubani,Slavyansk-na-Kubani,45.2558,38.1256,65196
+707,Silao,Silao,20.94356,-101.42703,65195
+708,Ningde,Ningde,26.66167,119.52278,65170
+709,Villa de Vallecas,Villa de Vallecas,40.36695,-3.60146,65162
+710,Hasuda,Hasuda,35.97113,139.6491,65161
+711,Fengrun,Fengrun,39.83333,118.11667,65150
+712,Sefrou,Sefrou,33.83186,-4.828,65150
+713,Lalmanirhat,Lalmanirhat,25.91719,89.44595,65127
+714,Kopargaon,Kopargaon,19.88239,74.47605,65116
+715,Aquiraz,Aquiraz,-3.90139,-38.39111,65116
+716,Broomfield,Broomfield,39.92054,-105.08665,65065
+717,Ames,Ames,42.03471,-93.61994,65060
+718,Shawnee,Shawnee,39.04167,-94.72024,65046
+719,La Villa del Rosario,La Villa del Rosario,10.3258,-72.31343,65011
+720,Kunyang,Kunyang,27.66583,120.56583,65009
+721,Bāzārak,Bazarak,35.31292,69.51519,65000
+722,Ādīgrat,Adigrat,14.277,39.462,65000
+723,Korosten’,Korosten',50.95937,28.63855,65000
+724,Qŭrghonteppa,Qurghonteppa,37.83399,68.78186,65000
+725,Itauguá,Itaugua,-25.38333,-57.33333,64997
+726,Conway,Conway,35.0887,-92.4421,64980
+727,Ciudad Frontera,Ciudad Frontera,26.92814,-101.45212,64976
+728,Chust Shahri,Chust Shahri,41.00936,71.2287,64966
+729,Wanning,Wanning,18.79931,110.3841,64954
+730,Villa del Rosario,Villa del Rosario,7.83389,-72.47417,64951
+731,East Orange,East Orange,40.76732,-74.20487,64949
+732,Vratsa,Vratsa,43.21,23.5625,64941
+733,Itacoatiara,Itacoatiara,-3.14306,-58.44417,64937
+734,Khulm,Khulm,36.69736,67.69826,64933
+735,Youssoufia,Youssoufia,32.24634,-8.52941,64910
+736,Bongaigaon,Bongaigaon,26.47703,90.55815,64902
+737,Herford,Herford,52.11457,8.67343,64879
+738,Lincheng,Lincheng,19.90778,109.68583,64874
+739,Maidenhead,Maidenhead,51.52279,-0.71986,64831
+740,Skokie,Skokie,42.03336,-87.73339,64821
+741,Malkāpur,Malkapur,20.88555,76.19932,64812
+742,Tân An,Tan An,10.53589,106.41366,64801
+743,Nazareth,Nazareth,32.69925,35.30483,64800
+744,Kingswood,Kingswood,51.45278,-2.50833,64793
+745,Gurupi,Gurupi,-11.72917,-49.06861,64789
+746,Massa,Massa,44.03541,10.13927,64783
+747,Grevenbroich,Grevenbroich,51.09102,6.5827,64779
+748,Čair,Cair,42.01528,21.44111,64773
+749,Itaituba,Itaituba,-4.27611,-55.98361,64756
+750,Nakhchivan,Nakhchivan,39.20889,45.41222,64754
+751,Daytona Beach,Daytona Beach,29.21081,-81.02283,64736
+752,Kāranja,Karanja,20.48273,77.48857,64734
+753,Khatauli,Khatauli,29.27844,77.73302,64731
+754,Weimar,Weimar,50.9803,11.32903,64727
+755,Ashoknagar,Ashoknagar,24.57578,77.73123,64722
+756,Hwawŏn,Hwawon,35.80167,128.50083,64718
+757,Salaqi,Salaqi,40.54139,110.51083,64704
+758,Ahlat,Ahlat,38.7489,42.48007,64695
+759,West Bloomfield Township,West Bloomfield Township,42.56891,-83.38356,64690
+760,Tamarac,Tamarac,26.21286,-80.24977,64681
+761,Siuri,Siuri,23.90806,87.52773,64659
+762,Rāipur,Raipur,23.0391,90.76808,64652
+763,Nābha,Nabha,30.37577,76.15292,64640
+764,El Bayadh,El Bayadh,33.68318,1.01927,64632
+765,Rivera,Rivera,-30.90534,-55.55076,64631
+766,Youngstown,Youngstown,41.09978,-80.64952,64628
+767,Taunton,Taunton,51.01494,-3.10293,64621
+768,Talavera,Talavera,15.5883,120.9192,64610
+769,Chacao,Chacao,10.49598,-66.85347,64609
+770,Santo Ângelo,Santo Angelo,-28.29917,-54.26306,64606
+771,Lodi,Lodi,38.1302,-121.27245,64596
+772,La Línea de la Concepción,La Linea de la Concepcion,36.16809,-5.34777,64595
+773,Xunchang,Xunchang,28.45433,104.71498,64580
+774,Greenville,Greenville,34.85262,-82.39401,64579
+775,Chía,Chia,4.85876,-74.05866,64569
+776,Kotikawatta,Kotikawatta,6.9269,79.9095,64565
+777,Msaken,Msaken,35.72917,10.58082,64563
+778,Siddipet,Siddipet,18.10483,78.84858,64562
+779,Puerto Madryn,Puerto Madryn,-42.7692,-65.03851,64555
+780,Mailsi,Mailsi,29.80028,72.17583,64545
+781,Ōdate,Odate,40.27178,140.55756,64543
+782,Muncar,Muncar,-8.43333,114.33333,64537
+783,Rosetta,Rosetta,31.39951,30.41718,64481
+784,Changli,Changli,39.70417,119.15056,64476
+785,Sidi Khaled,Sidi Khaled,34.387,4.98785,64476
+786,Bhawānipatna,Bhawanipatna,19.90717,83.16697,64468
+787,Khopoli,Khopoli,18.78562,73.34589,64460
+788,Karwar,Karwar,14.81361,74.12972,64457
+789,Akşehir,Aksehir,38.3575,31.41639,64446
+790,Parintins,Parintins,-2.62833,-56.73583,64428
+791,Bandar Seri Begawan,Bandar Seri Begawan,4.94029,114.94806,64409
+792,Kaihua,Kaihua,23.3695,104.27721,64404
+793,Concepcion,Concepcion,15.32546,120.65723,64402
+794,Nepalgunj,Nepalgunj,28.05,81.61667,64400
+795,Yunmeng Chengguanzhen,Yunmeng Chengguanzhen,31.06251,113.76545,64390
+796,Tikhoretsk,Tikhoretsk,45.85472,40.12528,64387
+797,Waterlooville,Waterlooville,50.88067,-1.0304,64350
+798,Rossosh’,Rossosh',51.1209,38.5116,64323
+799,Imaichi,Imaichi,36.71667,139.68333,64323
+800,Shakargarh,Shakargarh,32.26361,75.16008,64304
+801,Ghotki,Ghotki,28.00437,69.31569,64295
+802,Tallaght,Tallaght,53.2859,-6.37344,64282
+803,Mansfield,Mansfield,32.56319,-97.14168,64274
+804,Taloqan,Taloqan,36.73605,69.53451,64256
+805,Ongjin,Ongjin,37.93472,125.36194,64247
+806,Tuapse,Tuapse,44.1053,39.0802,64234
+807,Kerpen,Kerpen,50.86991,6.69691,64226
+808,Skanes,Skanes,35.78333,10.8,64222
+809,Santa Cruz,Santa Cruz,36.97412,-122.0308,64220
+810,Pico Rivera,Pico Rivera,33.98307,-118.09673,64218
+811,Madera,Madera,36.96134,-120.06072,64208
+812,Heidelberg,Heidelberg,-26.50476,28.35921,64199
+813,Kāyankulam,Kayankulam,9.18173,76.50093,64183
+814,Qinggang,Qinggang,46.68469,126.10595,64182
+815,Uga,Uga,5.93576,7.0793,64179
+816,Alessandria,Alessandria,44.90924,8.61007,64178
+817,Janesville,Janesville,42.68279,-89.01872,64123
+818,West Des Moines,West Des Moines,41.57721,-93.71133,64113
+819,Villa Elisa,Villa Elisa,-25.3676,-57.59274,64099
+820,Aleksandrov,Aleksandrov,56.39516,38.71216,64088
+821,Narutochō-mitsuishi,Narutocho-mitsuishi,34.19933,134.60932,64082
+822,Sibi,Sibi,29.54299,67.87726,64069
+823,Molina de Segura,Molina de Segura,38.05456,-1.20763,64065
+824,Chinnachowk,Chinnachowk,14.47516,78.8354,64053
+825,Nūrābād,Nurabad,30.11405,51.52174,64041
+826,Bishnupur,Bishnupur,23.0738,87.31991,64041
+827,Paterna,Paterna,39.5,-0.43333,64023
+828,Palaió Fáliro,Palaio Faliro,37.92812,23.70105,64021
+829,Mazabuka,Mazabuka,-15.85601,27.748,64006
+830,Khartsyz’k,Khartsyz'k,48.04243,38.14728,64000
+831,Kotlovka,Kotlovka,55.65928,37.60404,64000
+832,Polomolok,Polomolok,6.22167,125.06398,63987
+833,Mārkāpur,Markapur,15.73534,79.26848,63982
+834,Basmat,Basmat,19.32872,77.15746,63972
+835,Curvelo,Curvelo,-18.75639,-44.43083,63954
+836,Macclesfield,Macclesfield,53.26023,-2.12564,63954
+837,Baheri,Baheri,28.77416,79.4974,63953
+838,Montebello,Montebello,34.00946,-118.10535,63921
+839,Kunnamkulam,Kunnamkulam,10.64667,76.06695,63903
+840,Tulangan Utara,Tulangan Utara,-7.4737,112.6505,63889
+841,Itabaiana,Itabaiana,-10.685,-37.42528,63888
+842,Bognor Regis,Bognor Regis,50.78206,-0.67978,63885
+843,Cyangugu,Cyangugu,-2.4846,28.9075,63883
+844,Colón,Colon,22.72064,-80.90492,63882
+845,Rāghogarh,Raghogarh,24.44318,77.19768,63873
+846,San Antonio de Los Altos,San Antonio de Los Altos,10.38853,-66.95179,63873
+847,Kangar,Kangar,6.4414,100.19862,63869
+848,Valence,Valence,44.93333,4.9,63864
+849,Awsīm,Awsim,30.12303,31.13571,63862
+850,Ramla,Ramla,31.92923,34.86563,63860
+851,Newtownabbey,Newtownabbey,54.65983,-5.90858,63860
+852,Cosenza,Cosenza,39.2989,16.25307,63852
+853,Quimper,Quimper,48,-4.1,63849
+854,Thành Phố Uông Bí,Thanh Pho Uong Bi,21.03433,106.77049,63829
+855,Kristiansand,Kristiansand,58.14671,7.9956,63814
+856,Al Fashn,Al Fashn,28.82431,30.89948,63793
+857,Jāmpur,Jampur,29.64414,70.59544,63791
+858,Cao Lãnh,Cao Lanh,10.46017,105.63294,63770
+859,Kulai,Kulai,1.6561,103.6032,63762
+860,Fulda,Fulda,50.55162,9.67518,63760
+861,Yangcun,Yangcun,39.36389,117.06028,63756
+862,Zhicheng,Zhicheng,31.0054,119.90488,63753
+863,Caçador,Cacador,-26.77528,-51.015,63726
+864,Gopālganj,Gopalganj,26.46734,84.44041,63725
+865,Łomża,Lomza,53.17806,22.05935,63723
+866,Georgetown,Georgetown,30.63269,-97.67723,63716
+867,Kanchanaburi,Kanchanaburi,14.00412,99.54832,63699
+868,Chokwé,Chokwe,-24.53333,32.98333,63695
+869,Alpharetta,Alpharetta,34.07538,-84.29409,63693
+870,Ouro Preto,Ouro Preto,-20.39484,-43.50517,63678
+871,Karviná,Karvina,49.854,18.54169,63677
+872,Caldas Novas,Caldas Novas,-17.74431,-48.62789,63675
+873,Kettering,Kettering,52.39836,-0.72571,63675
+874,Genk,Genk,50.965,5.50082,63666
+875,Shimodate,Shimodate,36.3,139.98333,63666
+876,Kilju,Kilju,40.96417,129.32778,63652
+877,Lorain,Lorain,41.45282,-82.18237,63647
+878,Tura,Tura,25.51421,90.20239,63645
+879,Santa Lucía,Santa Lucia,27.91174,-15.54071,63637
+880,Baihe,Baihe,22.1343,107.232,63629
+881,Irecê,Irece,-11.30417,-41.85583,63626
+882,Bowling Green,Bowling Green,36.99032,-86.4436,63616
+883,Nong Khai,Nong Khai,17.87847,102.742,63609
+884,Flatlands,Flatlands,40.62122,-73.93486,63601
+885,Dundalk,Dundalk,39.25066,-76.52052,63597
+886,Tosu,Tosu,33.36667,130.51667,63595
+887,Dormagen,Dormagen,51.09683,6.83167,63582
+888,Zarechnyy,Zarechnyy,53.20356,45.19227,63579
+889,Užice,Uzice,43.85861,19.84878,63577
+890,Buckley,Buckley,53.16667,-3.08333,63576
+891,Mabai,Mabai,23.01279,104.45081,63569
+892,Leszno,Leszno,51.84034,16.57494,63565
+893,Bergheim,Bergheim,50.95572,6.63986,63558
+894,Catalão,Catalao,-18.16583,-47.94639,63544
+895,Ciudad Lerdo,Ciudad Lerdo,25.53718,-103.52456,63530
+896,Samut Sakhon,Samut Sakhon,13.54753,100.27362,63498
+897,Eden Prairie,Eden Prairie,44.85469,-93.47079,63496
+898,Viladecans,Viladecans,41.31405,2.01427,63489
+899,Jitra,Jitra,6.26812,100.42167,63489
+900,North Bergen,North Bergen,40.80427,-74.01208,63484
+901,Três Corações,Tres Coracoes,-21.69694,-45.25333,63457
+902,Korydallós,Korydallos,37.98468,23.64711,63445
+903,Great Yarmouth,Great Yarmouth,52.60831,1.73052,63434
+904,Kakamega,Kakamega,0.28422,34.75229,63426
+905,Aïn Sefra,Ain Sefra,32.75,-0.58333,63420
+906,El Prat de Llobregat,El Prat de Llobregat,41.32784,2.09472,63418
+907,Rājsamand,Rajsamand,25.07145,73.8798,63414
+908,Nanlong,Nanlong,31.35333,106.06309,63405
+909,Rio Largo,Rio Largo,-9.47833,-35.85333,63387
+910,Florence-Graham,Florence-Graham,33.96772,-118.24438,63387
+911,Waltham,Waltham,42.37649,-71.23561,63378
+912,Budapest XX. kerület,Budapest XX. keruelet,47.43674,19.10093,63371
+913,Siddharthanagar,Siddharthanagar,27.5,83.45,63367
+914,Fujioka,Fujioka,36.24624,139.07204,63358
+915,Garbsen,Garbsen,52.41371,9.5899,63355
+916,Teluk Intan,Teluk Intan,4.02219,101.02083,63353
+917,Pavlovo,Pavlovo,55.9686,43.0912,63338
+918,Cheyenne,Cheyenne,41.13998,-104.82025,63335
+919,Dārāb,Darab,28.75194,54.54444,63319
+920,Frenda,Frenda,35.06544,1.04945,63319
+921,Fuwwah,Fuwwah,31.20365,30.54908,63310
+922,Xiazhuang,Xiazhuang,34.91611,118.63889,63285
+923,West Hartford,West Hartford,41.76204,-72.74204,63268
+924,Fuding,Fuding,27.32734,120.21399,63250
+925,Molepolole,Molepolole,-24.40659,25.49508,63248
+926,Tāndūr,Tandur,17.24849,77.57698,63239
+927,Zalău,Zalau,47.2,23.05,63232
+928,Vilhena,Vilhena,-12.74056,-60.14583,63231
+929,Valença,Valenca,-13.37028,-39.07306,63231
+930,Kuşadası,Kusadasi,37.85562,27.2566,63177
+931,Kalamassery,Kalamassery,10.0614,76.32631,63176
+932,Żory,Zory,50.04523,18.70062,63174
+933,Godean,Godean,-7.76972,110.29389,63164
+934,Rogers,Rogers,36.33202,-94.11854,63159
+935,Bougara,Bougara,36.54178,3.081,63155
+936,Sūratgarh,Suratgarh,29.3215,73.89979,63153
+937,Mannargudi,Mannargudi,10.66626,79.45064,63148
+938,Medicine Hat,Medicine Hat,50.03928,-110.67661,63138
+939,Melipilla,Melipilla,-33.68909,-71.21528,63100
+940,Novaya Balakhna,Novaya Balakhna,56.48989,43.60114,63083
+941,Limón,Limon,9.99074,-83.03596,63081
+942,Les Abymes,Les Abymes,16.273,-61.50507,63058
+943,Tokmok,Tokmok,42.84194,75.30149,63047
+944,Botou,Botou,38.06667,116.5666,63045
+945,Fukuroi,Fukuroi,34.75,137.91667,63045
+946,Sopur,Sopur,34.28671,74.47228,63035
+947,Sandnes,Sandnes,58.85244,5.73521,63032
+948,Carol City,Carol City,25.94065,-80.2456,63031
+949,Peruíbe,Peruibe,-24.32,-46.99833,63030
+950,Pubal,Pubal,37.29167,127.50778,63026
+951,Hamma Bouziane,Hamma Bouziane,36.41205,6.59603,63012
+952,Florida,Florida,21.52536,-78.22579,63007
+953,Sheki,Sheki,41.19194,47.17056,63000
+954,Rubizhne,Rubizhne,49.01229,38.37967,62993
+955,Baoqing,Baoqing,46.33167,132.21111,62991
+956,Nkwerre,Nkwerre,5.75917,7.10384,62973
+957,Ichinoseki,Ichinoseki,38.91667,141.13333,62970
+958,Entebbe,Entebbe,0.05621,32.47949,62969
+959,Machiques,Machiques,10.06077,-72.55212,62968
+960,Sakurai,Sakurai,34.5,135.85,62964
+961,Itapeva,Itapeva,-23.98222,-48.87556,62957
+962,Encinitas,Encinitas,33.03699,-117.29198,62930
+963,Auchi,Auchi,7.06756,6.2636,62907
+964,Graaff-Reinet,Graaff-Reinet,-32.25215,24.53075,62896
+965,Bełchatów,Belchatow,51.36883,19.35671,62896
+966,Sambriāl,Sambrial,32.47835,74.35338,62874
+967,Runcorn,Runcorn,53.34174,-2.73124,62872
+968,Sorgun,Sorgun,39.81012,35.18596,62862
+969,Arni,Arni,12.66771,79.28529,62858
+970,Nasugbu,Nasugbu,14.06694,120.63181,62857
+971,Cannanore,Cannanore,11.86752,75.35763,62836
+972,Pryluky,Pryluky,50.59323,32.38761,62823
+973,Fāqūs,Faqus,30.72816,31.79697,62821
+974,Kara-Balta,Kara-Balta,42.81423,73.84813,62796
+975,Ashford,Ashford,51.14648,0.87376,62787
+976,Afragola,Afragola,40.92298,14.30935,62775
+977,Haverhill,Haverhill,42.7762,-71.07728,62765
+978,Robāţ Karīm,Robat Karim,35.4846,51.0829,62753
+979,Valdemoro,Valdemoro,40.19081,-3.67887,62750
+980,Gus’-Khrustal’nyy,Gus'-Khrustal'nyy,55.61113,40.65186,62746
+981,Jupiter,Jupiter,26.93422,-80.09421,62707
+982,Buynaksk,Buynaksk,42.819,47.1192,62689
+983,Wawer,Wawer,52.19656,21.17752,62656
+984,Semporna,Semporna,4.48178,118.61119,62641
+985,Kogon,Kogon,39.72278,64.55167,62620
+986,Cataguases,Cataguases,-21.38917,-42.69667,62618
+987,Çubuk,Cubuk,40.23861,33.03222,62602
+988,Krasnotur’insk,Krasnotur'insk,59.7666,60.2086,62600
+989,Council Bluffs,Council Bluffs,41.26194,-95.86083,62597
+990,Houmt Souk,Houmt Souk,33.87576,10.85745,62583
+991,Belebey,Belebey,54.11667,54.11667,62582
+992,Tataouine,Tataouine,32.92967,10.45177,62577
+993,Wellington,Wellington,26.65868,-80.24144,62560
+994,Tonypandy,Tonypandy,51.62202,-3.45544,62545
+995,Kaitong,Kaitong,44.81351,123.15,62537
+996,West Coon Rapids,West Coon Rapids,45.15969,-93.34967,62528
+997,Dhuburi,Dhuburi,26.01856,89.98564,62525
+998,Puliyangudi,Puliyangudi,9.17489,77.39799,62494
+999,Drancy,Drancy,48.92578,2.44533,62488
+1000,Pingnan,Pingnan,23.54218,110.38946,62483
+1001,Kosong,Kosong,38.37881,128.4676,62446
+1002,North Miami,North Miami,25.89009,-80.18671,62435
+1003,Al Khānkah,Al Khankah,30.21035,31.36812,62434
+1004,Singida,Singida,-4.81629,34.74358,62432
+1005,Noisy-le-Grand,Noisy-le-Grand,48.84979,2.56266,62420
+1006,Sheopur,Sheopur,25.66472,76.69616,62416
+1007,Fochville,Fochville,-26.48862,27.49387,62416
+1008,Al Fujayrah,Al Fujayrah,25.11641,56.34141,62415
+1009,Renukūt,Renukut,24.21641,83.0358,62413
+1010,Érd,Erd,47.39489,18.91361,62408
+1011,Hamilton,Hamilton,39.3995,-84.56134,62407
+1012,Dêqên,Deqen,29.96178,90.71875,62400
+1013,Villeneuve-d'Ascq,Villeneuve-d'Ascq,50.61669,3.16664,62400
+1014,Songyang,Songyang,34.45528,113.02806,62375
+1015,Tanjung Pandan,Tanjung Pandan,-2.73353,107.63477,62374
+1016,Zhaozhou,Zhaozhou,45.68333,125.31667,62373
+1017,Kitahiroshima,Kitahiroshima,42.97583,141.56722,62370
+1018,Grao de Murviedro,Grao de Murviedro,39.64167,-0.23889,62368
+1019,Yucheng,Yucheng,34.92889,116.46528,62365
+1020,Berekum,Berekum,7.4534,-2.58404,62364
+1021,North Port,North Port,27.04422,-82.23593,62345
+1022,Kipushi,Kipushi,-11.76097,27.25135,62332
+1023,La Seyne-sur-Mer,La Seyne-sur-Mer,43.09818,5.88471,62330
+1024,Druzhkivka,Druzhkivka,48.63013,37.55259,62315
+1025,Bekobod,Bekobod,40.22083,69.26972,86259
+1026,Berdychiv,Berdychiv,49.89928,28.60235,86250
+1027,Kasihan,Kasihan,-7.82694,110.32917,86234
+1028,Kāmthi,Kamthi,21.21615,79.1973,86213
+1029,Kashiwazaki,Kashiwazaki,37.36667,138.55,86183
+1030,Orihuela,Orihuela,38.08483,-0.94401,86164
+1031,Nanfeng,Nanfeng,23.72695,111.79723,86129
+1032,Cannock,Cannock,52.69045,-2.03085,86121
+1033,Duluth,Duluth,46.78327,-92.10658,86110
+1034,Champaign,Champaign,40.11642,-88.24338,86096
+1035,Zhangjiajie,Zhangjiajie,29.12944,110.47833,86083
+1036,Borāzjān,Borazjan,29.2699,51.2188,86059
+1037,Volos,Volos,39.36103,22.94248,86048
+1038,Potiskum,Potiskum,11.71391,11.08108,86002
+1039,Babushkin,Babushkin,55.86931,37.72966,86000
+1040,Lianozovo,Lianozovo,55.89783,37.5868,86000
+1041,Novi Pazar,Novi Pazar,43.13667,20.51222,85996
+1042,Žilina,Zilina,49.22315,18.73941,85985
+1043,Chipata,Chipata,-13.63333,32.65,85963
+1044,Poitiers,Poitiers,46.58333,0.33333,85960
+1045,Keffi,Keffi,8.84651,7.87354,85911
+1046,Usol’ye-Sibirskoye,Usol'ye-Sibirskoye,52.75194,103.64528,85900
+1047,Torre del Greco,Torre del Greco,40.78931,14.36806,85897
+1048,Atlixco,Atlixco,18.90815,-98.43613,85891
+1049,Shashemenē,Shashemene,7.2,38.6,85871
+1050,Parādīp Garh,Paradip Garh,20.31641,86.6085,85868
+1051,Makoko,Makoko,6.49611,3.38778,85840
+1052,Flensburg,Flensburg,54.78431,9.43961,85838
+1053,Ryūgasaki,Ryugasaki,35.9,140.18333,85761
+1054,Helong,Helong,42.53974,128.99722,85756
+1055,Río Gallegos,Rio Gallegos,-51.62261,-69.21813,85700
+1056,Paramagudi,Paramagudi,9.54633,78.5907,85695
+1057,San Antonio,San Antonio,-33.59473,-71.60746,85651
+1058,Hemel Hempstead,Hemel Hempstead,51.75368,-0.44975,85629
+1059,Chino,Chino,34.01223,-117.68894,85595
+1060,Hailin,Hailin,44.57149,129.38539,85578
+1061,Alhambra,Alhambra,34.09529,-118.12701,85551
+1062,Osmanabad,Osmanabad,18.18158,76.03889,85521
+1063,Svetlanovskiy,Svetlanovskiy,60.00276,30.33051,85508
+1064,Nanding,Nanding,36.74833,118.05583,85495
+1065,Río Bravo,Rio Bravo,25.98729,-98.09414,85481
+1066,Attock City,Attock City,33.76671,72.35977,85479
+1067,Ogden,Ogden,41.223,-111.97383,85444
+1068,Shostka,Shostka,51.86296,33.4698,85432
+1069,Versailles,Versailles,48.8,2.13333,85416
+1070,Guozhen,Guozhen,34.36591,107.35904,85415
+1071,Tārūt,Tarut,26.57332,50.03694,85371
+1072,Aruppukkottai,Aruppukkottai,9.50842,78.09449,85369
+1073,Ḩawsh ‘Īsá,Hawsh `Isa,30.9128,30.29019,85352
+1074,Paulo Afonso,Paulo Afonso,-9.40611,-38.21472,85350
+1075,Cárdenas,Cardenas,18.00135,-93.37559,85350
+1076,Ituiutaba,Ituiutaba,-18.97428,-49.46212,85345
+1077,Al Marj,Al Marj,32.48798,20.83174,85315
+1078,Redwood City,Redwood City,37.48522,-122.23635,85288
+1079,Dengzhou,Dengzhou,37.80822,120.75908,85279
+1080,Gharyan,Gharyan,32.17222,13.02028,85219
+1081,Yegor’yevsk,Yegor'yevsk,55.38283,39.03233,85200
+1082,Courbevoie,Courbevoie,48.89672,2.25666,85158
+1083,Bellingham,Bellingham,48.75955,-122.48822,85146
+1084,Qufu,Qufu,35.59667,116.99111,85144
+1085,Liepāja,Liepaja,56.51667,21.01667,85132
+1086,Iwamizawa,Iwamizawa,43.20028,141.75972,85107
+1087,O'Fallon,O'Fallon,38.81061,-90.69985,85040
+1088,Jyväskylä,Jyvaeskylae,62.24147,25.72088,85026
+1089,Junín,Junin,-34.58382,-60.94332,85007
+1090,Montelíbano,Montelibano,7.97917,-75.4202,85000
+1091,Thakhèk,Thakhek,17.41027,104.83068,85000
+1092,Rukban,Rukban,33.31405,38.70342,85000
+1093,Gonayiv,Gonayiv,19.44749,-72.68903,84961
+1094,Oued Zem,Oued Zem,32.8627,-6.57359,84910
+1095,Nanaimo,Nanaimo,49.16638,-123.94003,84905
+1096,Esteio,Esteio,-29.86139,-51.17917,84902
+1097,Bāruni,Baruni,25.47509,85.96813,84888
+1098,Hoover,Hoover,33.40539,-86.81138,84848
+1099,Créteil,Creteil,48.78333,2.46667,84833
+1100,Amsterdam-Zuidoost,Amsterdam-Zuidoost,52.3075,4.97222,84811
+1101,Ílion,Ilion,38.03333,23.7,84793
+1102,Mādārīpur,Madaripur,23.17097,90.20935,84789
+1103,Gesundbrunnen,Gesundbrunnen,52.55035,13.39139,84789
+1104,Hetauda,Hetauda,27.42839,85.03219,84775
+1105,Laojunmiao,Laojunmiao,39.83333,97.73333,84769
+1106,Cottbus,Cottbus,51.75769,14.32888,84754
+1107,Panabo,Panabo,7.30806,125.68417,84749
+1108,Cuautitlán,Cuautitlan,19.67052,-99.17989,84737
+1109,Epe,Epe,6.58412,3.98336,84711
+1110,Sarandi,Sarandi,-23.44361,-51.87389,84697
+1111,Aflou,Aflou,34.11279,2.10228,84683
+1112,Lagos de Moreno,Lagos de Moreno,21.35666,-101.93768,84677
+1113,Gamboru,Gamboru,12.37299,14.2069,84672
+1114,Tlaxcala,Tlaxcala,19.31905,-98.19982,84670
+1115,Akhisar,Akhisar,38.91852,27.84006,84659
+1116,Danbury,Danbury,41.39482,-73.45401,84657
+1117,Sumenep,Sumenep,-7.01667,113.86667,84656
+1118,Guider,Guider,9.9333,13.94671,84647
+1119,Katunayaka,Katunayaka,7.16992,79.88837,84643
+1120,Eisen,Eisen,36.82167,128.63083,84625
+1121,Bijnor,Bijnor,29.373,78.13636,84593
+1122,Mariveles,Mariveles,14.43385,120.48569,84567
+1123,St Albans,St Albans,51.75,-0.33333,84561
+1124,Daxi,Daxi,24.88373,121.29043,84549
+1125,East Norwalk,East Norwalk,41.10565,-73.39845,84530
+1126,Edinburg,Edinburg,26.30174,-98.16334,84497
+1127,Chicoloapan,Chicoloapan,19.41687,-98.90202,84440
+1128,Sunrise,Sunrise,26.13397,-80.1131,84439
+1129,Itaperuna,Itaperuna,-21.205,-41.88778,84435
+1130,Stakhanov,Stakhanov,48.56818,38.64352,84425
+1131,Dundee,Dundee,-28.16678,30.23371,84413
+1132,Wilhelmshaven,Wilhelmshaven,53.52998,8.11253,84393
+1133,Zhoushan,Zhoushan,29.98869,122.20488,84380
+1134,Ambarawa,Ambarawa,-7.26333,110.3975,84379
+1135,Nowy Sącz,Nowy Sacz,49.62177,20.69705,84376
+1136,Ogaminana,Ogaminana,7.59383,6.21798,84373
+1137,Milton,Milton,43.51681,-79.88294,84362
+1138,Anakāpalle,Anakapalle,17.69134,83.00395,84357
+1139,Piet Retief,Piet Retief,-27.00706,30.81323,84349
+1140,Dazhong,Dazhong,33.19973,120.4578,84323
+1141,Songkhla,Songkhla,7.19882,100.5951,84264
+1142,Trinidad,Trinidad,-14.83333,-64.9,84259
+1143,Phuthaditjhaba,Phuthaditjhaba,-28.52423,28.81582,84258
+1144,Avilés,Aviles,43.55473,-5.92483,84242
+1145,Çerkezköy,Cerkezkoey,41.28629,27.99939,84234
+1146,Jinxiang,Jinxiangzhen,27.43265,120.60625,84231
+1147,El Ejido,El Ejido,36.77629,-2.81456,84227
+1148,Trenton,Trenton,40.21705,-74.74294,84225
+1149,Yurga,Yurga,55.72306,84.88611,84220
+1150,Curepipe,Curepipe,-20.31472,57.52028,84200
+1151,Santa Fe,Santa Fe,35.68698,-105.9378,84099
+1152,Al Fqih Ben Çalah,Al Fqih Ben Calah,32.50213,-6.68771,84072
+1153,Bloomington,Bloomington,39.16533,-86.52639,84067
+1154,Foumbot,Foumbot,5.50803,10.6325,84065
+1155,Komendantsky aerodrom,Komendantsky aerodrom,60.00448,30.27523,84052
+1156,Feni,Feni,23.0144,91.3966,84028
+1157,Wanju,Wanju,35.84509,127.14752,84009
+1158,Najībābād,Najibabad,29.61194,78.34274,84006
+1159,Kakegawa,Kakegawa,34.76667,138.01667,84004
+1160,Ciudad Lázaro Cárdenas,Ciudad Lazaro Cardenas,17.97066,-102.22124,84001
+1161,Binonga,Binonga,10.7719,122.9817,83980
+1162,Dohad,Dohad,22.83283,74.25986,83966
+1163,Xiannü,Xiannu,32.42806,119.56048,83936
+1164,Santana,Santana,-0.05833,-51.18167,83927
+1165,Cicero,Cicero,41.84559,-87.75394,83886
+1166,Hemet,Hemet,33.74761,-116.97307,83861
+1167,Rāmgarh,Ramgarh,23.63018,85.51926,83833
+1168,Gotenba,Gotenba,35.31859,138.94343,83794
+1169,El Khroub,El Khroub,36.26333,6.69361,83746
+1170,Tepatitlán de Morelos,Tepatitlan de Morelos,20.81692,-102.76347,83694
+1171,South Shields,South Shields,54.99859,-1.4323,83655
+1172,Bethlehem,Bethlehem,-28.23078,28.30707,83654
+1173,Derry,Derry,54.9981,-7.30934,83652
+1174,Munūf,Munuf,30.46597,30.93199,83651
+1175,Hilversum,Hilversum,52.22333,5.17639,83640
+1176,Lingdong,Lingdong,46.56694,131.14528,83636
+1177,Gisenyi,Gisenyi,-1.70278,29.25639,83623
+1178,Nanzhang Chengguanzhen,Nanzhang Chengguanzhen,31.78394,111.82752,83604
+1179,Herẕliyya,Herzliyya,32.16627,34.82536,83600
+1180,NIA Valencia,NIA Valencia,7.90639,125.09417,83591
+1181,Ocaña,Ocana,8.23773,-73.35604,83511
+1182,Ouidah,Ouidah,6.36307,2.08506,83503
+1183,Tübingen,Tuebingen,48.52266,9.05222,83416
+1184,Yangp'yŏng,Yangp'yong,37.48972,127.49056,83367
+1185,Ungsang,Ungsang,35.40611,129.16861,83360
+1186,Kāvali,Kavali,14.9163,79.99449,83352
+1187,Johns Creek,Johns Creek,34.02893,-84.19858,83335
+1188,Yachimata,Yachimata,35.65,140.31667,83322
+1189,Mission,Mission,26.21591,-98.32529,83298
+1190,Mandurah,Mandurah,-32.5269,115.7217,83294
+1191,Codó,Codo,-4.45528,-43.88556,83288
+1192,Troy,Troy,42.60559,-83.14993,83280
+1193,Marilao,Marilao,14.75778,120.94833,83276
+1194,Buena Park,Buena Park,33.86751,-117.99812,83270
+1195,Xucheng,Xucheng,20.32917,110.16712,83267
+1196,Ihiala,Ihiala,5.85475,6.85944,83265
+1197,Umeå,Umea,63.82842,20.25972,83249
+1198,Katori-shi,Katori-shi,35.89767,140.49943,83181
+1199,Fatehpur,Fatehpur,27.99486,74.95628,83170
+1200,Margahayukencana,Margahayukencana,-6.97083,107.5675,83119
+1201,Galesong,Galesong,-5.3166,119.3661,83050
+1202,Guadalajara,Guadalajara,40.62862,-3.16185,83039
+1203,Hecun,Hecun,36.53333,114.11111,83009
+1204,San Fernando,San Fernando,16.61591,120.31663,83003
+1205,Chervonohrad,Chervonohrad,50.39105,24.23514,83000
+1206,Kamigyō-ku,Kamigyo-ku,35.02954,135.75666,83000
+1207,Sarnia,Sarnia,42.97866,-82.40407,82998
+1208,Ningyang,Ningyang,35.76417,116.79139,82994
+1209,Antsiranana,Antsiranana,-12.31732,49.29188,82937
+1210,Jinshi,Jinshi,29.60487,111.87012,82906
+1211,Weston-super-Mare,Weston-super-Mare,51.34603,-2.97665,82903
+1212,Amasya,Amasya,40.65333,35.83306,82896
+1213,Palm Coast,Palm Coast,29.58497,-81.20784,82893
+1214,Sanjō,Sanjo,37.61667,138.95,82893
+1215,Yuanping,Yuanping,38.71528,112.7575,82883
+1216,Minden,Minden,52.28953,8.91455,82879
+1217,Montego Bay,Montego Bay,18.47116,-77.91883,82867
+1218,David,David,8.42729,-82.43085,82859
+1219,Kraljevo,Kraljevo,43.72583,20.68944,82846
+1220,Fayetteville,Fayetteville,36.06258,-94.15743,82830
+1221,Sioux City,Sioux City,42.49999,-96.40031,82821
+1222,Yacuiba,Yacuiba,-22.01643,-63.67753,82803
+1223,Shīrvān,Shirvan,37.39669,57.92952,82790
+1224,Havířov,Havirov,49.77984,18.43688,82768
+1225,Chīchāwatni,Chichawatni,30.53333,72.7,82762
+1226,Ash Shaţrah,Ash Shatrah,31.40906,46.1727,82732
+1227,Sorsogon,Sorsogon,12.97389,123.99333,82730
+1228,Pau,Pau,43.3,-0.36667,82697
+1229,Roquetas de Mar,Roquetas de Mar,36.76419,-2.61475,82665
+1230,Palencia,Palencia,42.00955,-4.52406,82651
+1231,Pizhou,Pizhou,34.31139,117.95028,82641
+1232,Halifax,Halifax,53.71667,-1.85,82624
+1233,Algorta,Algorta,43.34927,-3.0094,82624
+1234,Changqing,Changqing,36.5575,116.72722,82598
+1235,Araxá,Araxa,-19.59333,-46.94056,82595
+1236,Sinhyeon,Sinhyeon,34.8825,128.62667,82560
+1237,Xindian,Xindian,36.7975,118.29444,82555
+1238,San Martín,San Martin,-33.08103,-68.46814,82549
+1239,Jangipur,Jangipur,24.47001,88.07659,82548
+1240,Chiguayante,Chiguayante,-36.9256,-73.02841,82545
+1241,Muş,Mus,38.73163,41.48482,82536
+1242,Sano,Sano,36.31667,139.58333,82535
+1243,Anzhero-Sudzhensk,Anzhero-Sudzhensk,56.081,86.0285,82526
+1244,Taourirt,Taourirt,34.40731,-2.89732,82518
+1245,Yima,Yima,34.73806,111.88389,82509
+1246,Shache,Shache,38.41667,77.24056,82509
+1247,Ashmūn,Ashmun,30.29735,30.97641,82507
+1248,Lake Forest,Lake Forest,33.64697,-117.68922,82492
+1249,Izmayil,Izmayil,45.34929,28.84079,82485
+1250,Pernik,Pernik,42.6,23.03333,82467
+1251,Dhār,Dhar,22.59373,75.29774,82438
+1252,Merced,Merced,37.30216,-120.48297,82436
+1253,Sant Boi de Llobregat,Sant Boi de Llobregat,41.34357,2.03659,82428
+1254,Pozuelo de Alarcón,Pozuelo de Alarcon,40.43293,-3.81338,82428
+1255,Bagamoyo,Bagamoyo,-6.44222,38.90422,82426
+1256,Cukai,Cukai,4.25,103.41667,82425
+1257,Shangzhi,Shangzhi,45.21406,127.97426,82419
+1258,Hānsi,Hansi,29.10239,75.96253,82407
+1259,Nangong,Nangong,37.35806,115.37444,82386
+1260,Chimaltenango,Chimaltenango,14.66111,-90.81944,82370
+1261,Lüshun,Lushun,38.8,121.26667,82345
+1262,Troitsk,Troitsk,54.0979,61.5773,82338
+1263,Banská Bystrica,Banska Bystrica,48.73946,19.15349,82336
+1264,Ma’dabā,Ma'daba,31.71599,35.79392,82335
+1265,Kanoya,Kanoya,31.38333,130.85,82335
+1266,Nizip,Nizip,37.00972,37.79417,82308
+1267,Kilis,Kilis,36.71611,37.115,82301
+1268,Colombes,Colombes,48.91882,2.25404,82300
+1269,Toledo,Toledo,39.8581,-4.02263,82291
+1270,Lākshām,Laksham,23.24018,91.12143,82290
+1271,Longview,Longview,32.5007,-94.74049,82287
+1272,Les Corts,Les Corts,41.38712,2.13007,82270
+1273,Polatsk,Polatsk,55.4879,28.7856,82258
+1274,Redditch,Redditch,52.3065,-1.94569,82253
+1275,Budapest VIII. kerület,Budapest VIII. keruelet,47.48919,19.07012,82222
+1276,Quzhou,Quzhou,28.95944,118.86861,82216
+1277,Fatsa,Fatsa,41.02778,37.50139,82160
+1278,Abomey,Abomey,7.18286,1.99119,82154
+1279,Tinaquillo,Tinaquillo,9.91861,-68.30472,82145
+1280,Azov,Azov,47.10779,39.41648,82133
+1281,Tochigi,Tochigi,36.38333,139.73333,82133
+1282,Bryan,Bryan,30.67436,-96.36996,82118
+1283,Ipoti,Ipoti,7.87377,5.07691,82113
+1284,Tanashichō,Tanashicho,35.72922,139.53813,82112
+1285,Marugame,Marugame,34.28333,133.78333,82090
+1286,Shiwan,Shiwan,23.00107,113.077,82031
+1287,Niagara Falls,Niagara Falls,43.10012,-79.06627,82000
+1288,Beckenham,Beckenham,51.40878,-0.02526,82000
+1289,Westland,Westland,42.3242,-83.40021,82000
+1290,Ishurdi,Ishurdi,24.12858,89.06573,81995
+1291,Kasserine,Kasserine,35.16758,8.83651,81987
+1292,Como,Como,45.80819,9.0832,81975
+1293,Tamworth,Tamworth,52.63399,-1.69587,81964
+1294,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,14.35167,100.57739,81962
+1295,Abreu e Lima,Abreu e Lima,-7.91167,-34.90278,81959
+1296,La Dorada,La Dorada,5.44783,-74.66311,81950
+1297,Bhakkar,Bhakkar,31.62525,71.06574,81950
+1298,Presidencia Roque Sáenz Peña,Presidencia Roque Saenz Pena,-26.78522,-60.43876,81879
+1299,Itajubá,Itajuba,-22.42556,-45.45278,81870
+1300,Qal‘at Bīshah,Qal`at Bishah,20.00054,42.6052,81828
+1301,Pejë,Peje,42.65913,20.28828,81800
+1302,Gwangju,Gwangju,37.41,127.25722,81780
+1303,Agboville,Agboville,5.92801,-4.21319,81770
+1304,Villingen-Schwenningen,Villingen-Schwenningen,48.06226,8.49358,81770
+1305,Kaspiysk,Kaspiysk,42.88165,47.63919,81752
+1306,Luján,Lujan,-34.57028,-59.105,81749
+1307,Lucca,Lucca,43.84369,10.50447,81748
+1308,Tangping,Tangping,22.03177,111.93537,81729
+1309,Ar Rass,Ar Rass,25.86944,43.4973,81728
+1310,Warwick,Warwick,41.7001,-71.41617,81699
+1311,Barkā’,Barka',23.70739,57.88908,81647
+1312,Mukacheve,Mukacheve,48.43919,22.71779,81633
+1313,Watampone,Watampone,-4.5386,120.3279,81629
+1314,Campana,Campana,-34.16874,-58.95914,81612
+1315,Lakewood,Lakewood,33.85363,-118.13396,81611
+1316,Salmās,Salmas,38.1973,44.7653,81606
+1317,Pontevedra,Pontevedra,42.431,-8.64435,81576
+1318,Sokhumi,Sokhumi,43.00697,40.9893,81546
+1319,Al Ḩasakah,Al Hasakah,36.50237,40.74772,81539
+1320,Ocotlán,Ocotlan,20.3553,-102.77358,81527
+1321,Mungyeong,Mungyeong,36.59458,128.19946,81525
+1322,Kadiri,Kadiri,14.11168,78.15982,81498
+1323,Lavras,Lavras,-21.24528,-44.99972,81472
+1324,Dhorāji,Dhoraji,21.73359,70.45004,81445
+1325,Khāriān,Kharian,32.81612,73.88697,81435
+1326,Rāyachoti,Rayachoti,14.05723,78.75056,81433
+1327,Yudong,Yudong,29.385,106.51944,81408
+1328,Balqash,Balqash,46.84806,74.995,81364
+1329,Guaynabo,Guaynabo,18.35745,-66.111,81360
+1330,Yashio-shi,Yashio-shi,35.82255,139.83905,81345
+1331,Farmington Hills,Farmington Hills,42.48531,-83.37716,81330
+1332,Khambhāt,Khambhat,22.31744,72.61916,81328
+1333,Sarishābāri,Sarishabari,24.75127,89.83126,81325
+1334,San Tan Valley,San Tan Valley,33.1911,-111.528,81321
+1335,Bistriţa,Bistrita,47.13316,24.50011,81318
+1336,Mount Pleasant,Mount Pleasant,32.79407,-79.86259,81317
+1337,Avaré,Avare,-23.09861,-48.92583,81285
+1338,Konstanz,Konstanz,47.66033,9.17582,81275
+1339,Tatebayashi,Tatebayashi,36.25,139.53333,81274
+1340,Konin,Konin,52.22338,18.25121,81258
+1341,Formosa,Formosa,-15.53722,-47.33444,81232
+1342,Gafsa,Gafsa,34.425,8.78417,81232
+1343,Reşiţa,Resita,45.30083,21.88917,81228
+1344,Leme,Leme,-22.18556,-47.39028,81209
+1345,Mitte,Mitte,52.52003,13.40489,81205
+1346,Lalupon,Lalupon,7.46667,4.06667,81130
+1347,Worms,Worms,49.63278,8.35916,81099
+1348,Cranston,Cranston,41.77982,-71.43728,81073
+1349,Ozersk,Ozersk,55.75556,60.70278,81023
+1350,Yessentuki,Yessentuki,44.04444,42.86056,81015
+1351,Vitry-sur-Seine,Vitry-sur-Seine,48.78716,2.40332,81001
+1352,Largo,Largo,27.90979,-82.78842,81000
+1353,Cizre,Cizre,37.33024,42.18484,80992
+1354,Naesŏ,Naeso,35.24972,128.52,80987
+1355,Nirmal,Nirmal,19.09685,78.34407,80982
+1356,Quatre Bornes,Quatre Bornes,-20.26381,57.4791,80961
+1357,Emmiganūr,Emmiganur,15.77203,77.48345,80933
+1358,Zomba,Zomba,-15.38596,35.3188,80932
+1359,Feicheng,Feicheng,35.26056,117.9675,80929
+1360,Natitingou,Natitingou,10.30416,1.37962,80892
+1361,Ravenna,Ravenna,44.41344,12.20121,80868
+1362,Shanting,Shanting,35.07528,117.45778,80843
+1363,Jeypore,Jeypore,18.8563,82.5716,80837
+1364,Hengelo,Hengelo,52.26583,6.79306,80809
+1365,Shibata,Shibata,37.95,139.33333,80793
+1366,Gamagōri,Gamagori,34.83333,137.23333,80786
+1367,Rouissat,Rouissat,31.92427,5.35018,80784
+1368,Klin,Klin,56.33333,36.73333,80778
+1369,Kfar Saba,Kfar Saba,32.175,34.90694,80773
+1370,Izumiōtsu,Izumiotsu,34.5,135.4,80772
+1371,Getxo,Getxo,43.35689,-3.01146,80770
+1372,Kotkapura,Kotkapura,30.5819,74.83298,80741
+1373,Berkane,Berkane,34.92,-2.32,80721
+1374,Toride,Toride,35.9,140.08333,80716
+1375,Lecce,Lecce,40.35481,18.17244,80695
+1376,South Suffolk,South Suffolk,36.71709,-76.59023,80690
+1377,Bafang,Bafang,5.15705,10.1771,80688
+1378,Avondale,Avondale,33.4356,-112.3496,80684
+1379,Atakpamé,Atakpame,7.53333,1.13333,80683
+1380,Aulnay-sous-Bois,Aulnay-sous-Bois,48.93814,2.49402,80615
+1381,Tustin,Tustin,33.74585,-117.82617,80583
+1382,Berrouaghia,Berrouaghia,36.13516,2.91085,80573
+1383,Bingöl,Bingol,38.88472,40.49389,80568
+1384,Artemivs’k,Artemivs'k,48.59559,37.99987,80500
+1385,Necochea,Necochea,-38.5545,-58.73961,80478
+1386,Elbistan,Elbistan,38.20591,37.1983,80456
+1387,Udhampur,Udhampur,32.92431,75.13573,80447
+1388,Mountain View,Mountain View,37.38605,-122.08385,80435
+1389,Napa,Napa,38.29714,-122.28553,80434
+1390,Kairāna,Kairana,29.39541,77.2054,80432
+1391,Trento,Trento,46.06787,11.12108,80425
+1392,Tahoua,Tahoua,14.8888,5.2692,80425
+1393,Mihara,Mihara,34.4,133.08333,80387
+1394,Zhuanghe,Zhuanghe,39.70083,122.99111,80384
+1395,Bālāghāt,Balaghat,21.8156,80.18845,80360
+1396,Bonāb,Bonab,37.3404,46.0561,80359
+1397,Loushanguan,Loushanguan,28.1368,106.822,80344
+1398,Somerville,Somerville,42.3876,-71.0995,80318
+1399,Baoying,Baoying,33.22917,119.30917,80292
+1400,Giugliano in Campania,Giugliano in Campania,40.92849,14.20197,80269
+1401,Kedungwaru,Kedungwaru,-8.06667,111.91667,80257
+1402,Yagoua,Yagoua,10.34107,15.23288,80235
+1403,Lawrence,Lawrence,42.70704,-71.16311,80231
+1404,Dashiqiao,Dashiqiao,40.63732,122.50251,80223
+1405,Budapest XV. kerület,Budapest XV. keruelet,47.56263,19.11681,80218
+1406,Mbalmayo,Mbalmayo,3.51667,11.5,80206
+1407,Panshi,Panshi,42.94222,126.05611,80200
+1408,Serpong,Serpong,-6.31694,106.66417,80193
+1409,As Salţ,As Salt,32.03917,35.72722,80189
+1410,Namibe,Namibe,-15.19611,12.15222,80149
+1411,Lichterfelde,Lichterfelde,52.4333,13.30762,80149
+1412,Piotrków Trybunalski,Piotrkow Trybunalski,51.40547,19.70321,80128
+1413,Melbourne,Melbourne,28.08363,-80.60811,80127
+1414,San Andrés Cholula,San Andres Cholula,19.05144,-98.29526,80118
+1415,Yambol,Yambol,42.48333,26.5,80116
+1416,Meïganga,Meiganga,6.51667,14.3,80100
+1417,Vorkuta,Vorkuta,67.49884,64.05253,80039
+1418,El Cafetal,El Cafetal,10.46941,-66.83063,80029
+1419,Gandia,Gandia,38.96667,-0.18333,80020
+1420,Ushiku,Ushiku,35.96667,140.13333,80020
+1421,Mānsa,Mansa,29.98844,75.40167,80018
+1422,Ra'anana,Ra'anana,32.1836,34.87386,80000
+1423,Shahre Jadide Andisheh,Shahre Jadide Andisheh,35.6803,51.0193,80000
+1424,Rikaze,Rikaze,29.25,88.88333,80000
+1425,Cung Kiệm,Cung Kiem,21.18697,106.16076,80000
+1426,Fili,Fili,55.74819,37.47969,80000
+1427,Ughelli,Ughelli,5.48956,6.00407,79986
+1428,Dorsten,Dorsten,51.66166,6.96514,79981
+1429,Ciudad Mante,Ciudad Mante,22.74304,-98.9739,79981
+1430,Scunthorpe,Scunthorpe,53.57905,-0.65437,79977
+1431,Stockton-on-Tees,Stockton-on-Tees,54.56848,-1.3187,79957
+1432,Comitán,Comitan,16.24471,-92.13425,79944
+1433,Parma,Parma,41.40477,-81.72291,79937
+1434,New Rochelle,New Rochelle,40.91149,-73.78235,79846
+1435,Anantnag,Anantnag,33.73068,75.15418,79821
+1436,Cruzeiro do Sul,Cruzeiro do Sul,-7.62759,-72.67756,79819
+1437,Lynchburg,Lynchburg,37.41375,-79.14225,79812
+1438,Medford,Medford,42.32652,-122.87559,79805
+1439,La Goulette,La Goulette,36.81806,10.305,79795
+1440,Zrenjanin,Zrenjanin,45.38361,20.38194,79773
+1441,Deerfield Beach,Deerfield Beach,26.31841,-80.09977,79768
+1442,Chichicastenango,Chichicastenango,14.93333,-91.11667,79759
+1443,Sibolga,Sibolga,1.74016,98.78117,79714
+1444,Haskovo,Haskovo,41.93415,25.55557,79699
+1445,Taixing,Taixing,32.16667,120.01361,79655
+1446,Kāraikāl,Karaikal,10.91667,79.83333,79653
+1447,Genteng,Genteng,-8.36667,114.15,79652
+1448,Kidapawan,Kidapawan,7.00833,125.08944,79652
+1449,Erdenet,Erdenet,49.03333,104.08333,79647
+1450,Amstelveen,Amstelveen,52.30083,4.86389,79639
+1451,Bende,Bende,5.55874,7.63359,79618
+1452,Kropotkin,Kropotkin,45.4375,40.57556,79599
+1453,Itumbiara,Itumbiara,-18.41917,-49.21528,79582
+1454,Tecoman,Tecoman,18.91678,-103.87786,79579
+1455,Oke Mesi,Oke Mesi,7.81667,4.91667,79563
+1456,Maricá,Marica,-22.91944,-42.81861,79551
+1457,Ar Rifā‘,Ar Rifa',26.13,50.555,79550
+1458,Szombathely,Szombathely,47.23088,16.62155,79534
+1459,Kafanchan,Kafanchan,9.58126,8.2926,79522
+1460,Busto Arsizio,Busto Arsizio,45.61128,8.84914,79519
+1461,Pleasanton,Pleasanton,37.66243,-121.87468,79510
+1462,Norzagaray,Norzagaray,14.9109,121.0493,79508
+1463,Jhārsuguda,Jharsuguda,21.86159,84.01788,79492
+1464,Tangjiazhuang,Tangjiazhuang,39.74326,118.45099,79489
+1465,Shadrinsk,Shadrinsk,56.0852,63.6335,79479
+1466,Willowdale,Willowdale,43.76672,-79.39909,79440
+1467,Sidi Slimane,Sidi Slimane,34.26479,-5.92598,79437
+1468,Huehuetenango,Huehuetenango,15.31918,-91.47241,79426
+1469,Brājarājnagar,Brajarajnagar,21.81667,83.91667,79421
+1470,Drohobych,Drohobych,49.34991,23.50561,79406
+1471,Lido di Ostia,Lido di Ostia,41.73212,12.27654,79400
+1472,Cesena,Cesena,44.1391,12.24315,79398
+1473,Lüdenscheid,Luedenscheid,51.21977,7.6273,79386
+1474,Rustaq,Rustaq,23.39083,57.42444,79383
+1475,Behbahān,Behbahan,30.5959,50.2417,79327
+1476,Zarzis,Zarzis,33.50398,11.11215,79316
+1477,Budapest X. kerület,Budapest X. keruelet,47.4791,19.15835,79270
+1478,Sant Cugat del Vallès,Sant Cugat del Valles,41.47063,2.08611,79253
+1479,Kottagūdem,Kottagudem,17.55106,80.61779,79247
+1480,Nawābganj,Nawabganj,26.93129,81.19841,79246
+1481,Gedangan,Gedangan,-7.39083,112.72667,79230
+1482,Shouguang,Shouguang,36.88,118.7375,79212
+1483,Yanta,Yanta,36.24111,115.66722,79196
+1484,Kadoma,Kadoma,-18.33328,29.91534,79174
+1485,Bwizibwera,Bwizibwera,-0.59167,30.62861,79157
+1486,Brooklyn Park,Brooklyn Park,45.09413,-93.35634,79149
+1487,Gueckedou,Gueckedou,8.56744,-10.1336,79140
+1488,Zhuangyuan,Zhuangyuan,37.30553,120.82747,79106
+1489,Ikom,Ikom,5.96669,8.70632,79103
+1490,Arakkonam,Arakkonam,13.08449,79.67053,79080
+1491,Wuyang,Wuyang,31.9925,116.24722,79070
+1492,Gapan,Gapan,15.3072,120.9464,79064
+1493,Kashihara,Kashihara,34.58333,135.61667,79058
+1494,Xiongzhou,Xiongzhou,25.11667,114.3,79050
+1495,Ponorogo,Ponorogo,-7.8685,111.462,79026
+1496,Agulu,Agulu,6.10045,7.061,79021
+1497,Netrakona,Netrakona,24.88352,90.72898,79016
+1498,Ubatuba,Ubatuba,-23.43389,-45.07111,79007
+1499,Goodyear,Goodyear,33.43532,-112.35821,79003
+1500,Paoy Paet,Paoy Paet,13.65805,102.56365,79000
+1501,Slatina,Slatina,44.43333,24.36667,78988
+1502,Wakefield,Wakefield,53.68331,-1.49768,78978
+1503,Catanzaro,Catanzaro,38.88247,16.60086,78970
+1504,Layyah,Layyah,30.96128,70.93904,78954
+1505,Heróica Zitácuaro,Heroica Zitacuaro,19.43612,-100.35733,78950
+1506,Cerro de Pasco,Cerro de Pasco,-10.66748,-76.25668,78910
+1507,Kennewick,Kennewick,46.21125,-119.13723,78896
+1508,Marburg an der Lahn,Marburg an der Lahn,50.80904,8.77069,78895
+1509,Marseille 08,Marseille 08,43.27083,5.3821,78837
+1510,Tambacounda,Tambacounda,13.77073,-13.66734,78800
+1511,Kŭlob,Kulob,37.91459,69.78454,78786
+1512,Darnah,Darnah,32.76704,22.63669,78782
+1513,San Fernando de Apure,San Fernando de Apure,7.88782,-67.47236,78779
+1514,Xinzhou,Xinzhou,30.86667,114.8,78767
+1515,Shitanjing,Shitanjing,39.23417,106.34389,78765
+1516,Zlín,Zlin,49.22645,17.67065,78759
+1517,Chiang Rai,Chiang Rai,19.90858,99.8325,78756
+1518,Manfalūţ,Manfalut,27.3104,30.97004,78744
+1519,Sagaing,Sagaing,21.8787,95.97965,78739
+1520,Koch Bihār,Koch Bihar,26.32539,89.44508,78737
+1521,Tumen,Tumen,42.96611,129.8425,78719
+1522,Três Lagoas,Tres Lagoas,-20.78765,-51.70338,78712
+1523,Dod Ballāpur,Dod Ballapur,13.29452,77.53777,78676
+1524,Gualeguaychú,Gualeguaychu,-33.00937,-58.51722,78676
+1525,Ceuta,Ceuta,35.88933,-5.31979,78674
+1526,Mthatha,Mthatha,-31.58893,28.78443,78663
+1527,Dondo,Dondo,-19.60944,34.74306,78648
+1528,Mayagüez,Mayagueez,18.20107,-67.13962,78647
+1529,Vyborg,Vyborg,60.70763,28.75283,78633
+1530,Alameda,Alameda,37.76521,-122.24164,78630
+1531,Arona,Arona,28.09962,-16.68102,78614
+1532,São João del Rei,Sao Joao del Rei,-21.13556,-44.26167,78592
+1533,Bhadohi,Bhadohi,25.39526,82.5703,78568
+1534,Brindisi,Brindisi,40.63215,17.93607,78548
+1535,Torrent,Torrent,39.43705,-0.46546,78543
+1536,Carlisle,Carlisle,54.8951,-2.9382,78470
+1537,Town 'n' Country,Town 'n' Country,28.01057,-82.57732,78442
+1538,Bellflower,Bellflower,33.88168,-118.11701,78441
+1539,Kātoya,Katoya,23.64558,88.13258,78408
+1540,Kayes,Kayes,14.44693,-11.44448,78406
+1541,San Pedro,San Pedro,33.73585,-118.29229,78405
+1542,Youhao,Youhao,47.85306,128.83565,78402
+1543,Neumünster,Neumuenster,54.07477,9.98195,78383
+1544,Reutov,Reutov,55.76111,37.8575,78370
+1545,Guanajuato,Guanajuato,21.01858,-101.2591,78364
+1546,Putatan,Putatan,5.9258,116.06094,78340
+1547,Karatsu,Karatsu,33.4425,129.96972,78330
+1548,Chino Hills,Chino Hills,33.9938,-117.75888,78309
+1549,Bang Kruai,Bang Kruai,13.805,100.47283,78305
+1550,Bloomington,Bloomington,40.4842,-88.99369,78292
+1551,Wedding,Wedding Bezirk,52.54734,13.35594,78290
+1552,Daura,Daura,11.5541,11.406,78277
+1553,Al Ḩayy,Al Hayy,32.17419,46.04345,78272
+1554,Pingyi,Pingyi,35.50056,117.63083,78254
+1555,Budapest XVII. kerület,Budapest XVII. keruelet,47.47997,19.25388,78250
+1556,Mogi Mirim,Mogi Mirim,-22.43194,-46.95778,78244
+1557,Iizuka,Iizuka,33.63654,130.68678,78206
+1558,Valvedditturai,Valvedditturai,9.81667,80.16667,78205
+1559,Jamūī,Jamui,24.92606,86.22531,78181
+1560,Linping,Linping,30.4225,120.29722,78180
+1561,Ilioúpoli,Ilioupoli,37.93149,23.76779,78153
+1562,Zahlé,Zahle,33.84675,35.90203,78145
+1563,Daet,Daet,14.1122,122.9553,78142
+1564,Alafaya,Alafaya,28.5641,-81.2114,78113
+1565,Wa,Wa,10.06069,-2.50192,78107
+1566,Abaetetuba,Abaetetuba,-1.71806,-48.8825,78050
+1567,Harihar,Harihar,14.51288,75.80716,78034
+1568,Alekseyevka,Alekseyevka,55.63,37.8,78000
+1569,Mancherāl,Mancheral,18.87074,79.42863,77998
+1570,Castrop-Rauxel,Castrop-Rauxel,51.55657,7.31155,77924
+1571,Marsala,Marsala,37.7992,12.4367,77915
+1572,Ōbu,Obu,35,136.96667,77864
+1573,Springdale,Springdale,36.18674,-94.12881,77859
+1574,North Hollywood,North Hollywood,34.17223,-118.37897,77848
+1575,Kadayanallur,Kadayanallur,9.07277,77.34152,77772
+1576,Marseille 15,Marseille 15,43.37224,5.35386,77770
+1577,Ciranjang-hilir,Ciranjang-hilir,-6.82,107.25722,77758
+1578,Linkou,Linkou,45.28606,130.26151,77754
+1579,Racine,Racine,42.72613,-87.78285,77742
+1580,Ipiales,Ipiales,0.83018,-77.64959,77729
+1581,Roosendaal,Roosendaal,51.53083,4.46528,77725
+1582,Daltonganj,Daltonganj,24.03971,84.0658,77704
+1583,Brikama,Brikama,13.27136,-16.64944,77700
+1584,Hakkari,Hakkari,37.57444,43.74083,77699
+1585,Keningau,Keningau,5.3378,116.1602,77650
+1586,Gateshead,Gateshead,54.96209,-1.60168,77649
+1587,Bijie,Bijie,27.30193,105.28627,77645
+1588,Huangmei,Huangmei,30.19235,116.02496,77633
+1589,Numan,Numan,9.46374,12.03062,77617
+1590,Hammond,Hammond,41.58337,-87.50004,77614
+1591,Feicheng,Feicheng,36.24861,116.76583,77606
+1592,Treviso,Treviso,45.66673,12.2416,77604
+1593,Milpitas,Milpitas,37.42827,-121.90662,77604
+1594,São Bento do Sul,Sao Bento do Sul,-26.25028,-49.37861,77597
+1595,Inowrocław,Inowroclaw,52.79886,18.26387,77597
+1596,Ünye,UEnye,41.13139,37.2825,77585
+1597,Songling,Songling,31.1933,120.71758,77566
+1598,Bogenhausen,Bogenhausen,48.15221,11.61585,77542
+1599,Jishui,Jishui,33.73333,115.4,77540
+1600,Aalst,Aalst,50.93604,4.0355,77534
+1601,Lubin,Lubin,51.40089,16.20149,77532
+1602,Mechelen,Mechelen,51.02574,4.47762,77530
+1603,Shūshtar,Shushtar,32.04972,48.84843,77507
+1604,Lisburn,Lisburn,54.52337,-6.03527,77506
+1605,Kars,Kars,40.59825,43.08548,77486
+1606,Kambar,Kambar,27.58753,68.00066,77481
+1607,Linqu,Linqu,36.51556,118.53972,77472
+1608,Farīdkot,Faridkot,30.67399,74.75579,77450
+1609,Wako,Wako,35.78944,139.62333,77435
+1610,Khomeyn,Khomeyn,33.64225,50.0789,77425
+1611,Shulan,Shulan,44.41667,126.95,77420
+1612,Apalit,Apalit,14.95333,120.77,77418
+1613,Itaúna,Itauna,-20.07528,-44.57639,77400
+1614,Balrāmpur,Balrampur,27.42949,82.18545,77396
+1615,Saint-Laurent,Saint-Laurent,45.50008,-73.66585,77391
+1616,Suva,Suva,-18.14161,178.44149,77366
+1617,Hatsukaichi,Hatsukaichi,34.35,132.33333,77341
+1618,Dessau,Dessau,51.83864,12.24555,77315
+1619,Focșani,Focsani,45.7,27.18333,77313
+1620,Chiclana de la Frontera,Chiclana de la Frontera,36.41915,-6.14941,77293
+1621,Bāramūla,Baramula,34.209,74.34285,77276
+1622,Yanzhou,Yanzhou,35.55278,116.82861,77276
+1623,Agua Prieta,Agua Prieta,31.33071,-109.54876,77254
+1624,Pesaro,Pesaro,43.90921,12.9164,77241
+1625,Kanasín,Kanasin,20.93482,-89.55871,77240
+1626,Ende,Ende,-8.8432,121.6623,77205
+1627,San Carlos,San Carlos,9.66124,-68.58268,77192
+1628,Pulilan,Pulilan,14.90167,120.84917,77186
+1629,Siedlce,Siedlce,52.16772,22.29006,77185
+1630,Jiexiu,Jiexiu,37.02444,111.9125,77178
+1631,Ksar el Boukhari,Ksar el Boukhari,35.88889,2.74905,77166
+1632,Santa Cruz de Barahona,Santa Cruz de Barahona,18.20854,-71.10077,77160
+1633,Gary,Gary,41.59337,-87.34643,77156
+1634,Ovalle,Ovalle,-30.60106,-71.19901,77138
+1635,Polangui,Polangui,13.2923,123.4855,77122
+1636,Scranton,Scranton,41.40916,-75.6649,77118
+1637,São Mateus,Sao Mateus,-18.72011,-39.85891,77117
+1638,Amozoc de Mota,Amozoc de Mota,19.04611,-98.045,77106
+1639,Coyah,Coyah,9.70643,-13.38465,77103
+1640,Voskresensk,Voskresensk,55.31733,38.65264,77086
+1641,Keratsíni,Keratsini,37.9625,23.61972,77077
+1642,Baldwin Park,Baldwin Park,34.08529,-117.9609,77071
+1643,Dhuliān,Dhulian,24.68127,87.9535,77070
+1644,Hunchun,Hunchun,42.8675,130.35806,77028
+1645,Sasolburg,Sasolburg,-26.81358,27.81695,77016
+1646,Kagoro,Kagoro,9.60776,8.39043,77008
+1647,Pisa,Pisa,43.70853,10.4036,77007
+1648,Auburn,Auburn,47.30732,-122.22845,77006
+1649,Yalta,Yalta,44.50218,34.16624,77003
+1650,Huangshan,Huangshan,29.71139,118.3125,77000
+1651,Chilliwack,Chilliwack,49.16638,-121.95257,77000
+1652,Mawāna,Mawana,29.10288,77.92199,76973
+1653,Tsurusaki,Tsurusaki,33.24528,131.69165,76968
+1654,Gladbeck,Gladbeck,51.57077,6.98593,76940
+1655,Sarkand,Sarkand,45.41126,79.91545,76919
+1656,Karur,Karur,10.95771,78.08095,76915
+1657,Marseille 09,Marseille 09,43.25433,5.4057,76868
+1658,Varese,Varese,45.82058,8.82511,76851
+1659,Damietta,Damietta,31.41648,31.81332,76839
+1660,Puerto Padre,Puerto Padre,21.19517,-76.60358,76838
+1661,Arraiján,Arraijan,8.95187,-79.66011,76815
+1662,La Rochelle,La Rochelle,46.16667,-1.15,76810
+1663,Kundla,Kundla,21.34222,71.30633,76809
+1664,Fishers,Fishers,39.95559,-86.01387,76794
+1665,Saint Joseph,Saint Joseph,39.76861,-94.84663,76780
+1666,Pori,Pori,61.48333,21.78333,76772
+1667,San Felipe,San Felipe,10.33991,-68.74247,76766
+1668,Moro,Moro,26.66317,68.00016,76765
+1669,Mmabatho,Mmabatho,-25.85,25.63333,76754
+1670,Purmerend,Purmerend,52.505,4.95972,76745
+1671,Liangxiang,Liangxiang,39.73598,116.13295,76744
+1672,Champigny-sur-Marne,Champigny-sur-Marne,48.81642,2.49366,76726
+1673,Manmād,Manmad,20.25334,74.43755,76722
+1674,Kannauj,Kannauj,27.05524,79.9188,76714
+1675,Luxembourg,Luxembourg,49.61167,6.13,76684
+1676,La Louvière,La Louviere,50.48657,4.18785,76668
+1677,Saint-Pierre,Saint-Pierre,-21.3393,55.47811,76655
+1678,Pančevo,Pancevo,44.87083,20.64028,76654
+1679,Fenghua,Fenghua,29.65628,121.4064,76653
+1680,Colón,Colon,9.35451,-79.90011,76643
+1681,Malaut,Malaut,30.21121,74.4818,76616
+1682,Rueil-Malmaison,Rueil-Malmaison,48.8765,2.18967,76616
+1683,Villa de Cura,Villa de Cura,10.03863,-67.48938,76614
+1684,Guiguinto,Guiguinto,14.83333,120.88333,76613
+1685,Arnsberg,Arnsberg,51.38333,8.08333,76612
+1686,Nagīna,Nagina,29.44433,78.43646,76593
+1687,Manresa,Manresa,41.72815,1.82399,76558
+1688,Jataí,Jatai,-17.87939,-51.72166,76547
+1689,São João da Boa Vista,Sao Joao da Boa Vista,-21.96917,-46.79806,76540
+1690,Pharr,Pharr,26.1948,-98.18362,76538
+1691,Sesto San Giovanni,Sesto San Giovanni,45.53329,9.22585,76509
+1692,Lorena,Lorena,-22.73083,-45.12472,76506
+1693,Fylde,Fylde,53.83333,-2.91667,76500
+1694,Badagara,Badagara,11.59776,75.58142,76493
+1695,Mbale,Mbale,1.08209,34.17503,76493
+1696,Rheine,Rheine,52.28509,7.44055,76491
+1697,Modiin,Modiin,31.89825,35.01051,76466
+1698,Jagdalpur,Jagdalpur,19.08136,82.02131,76465
+1699,Santa Cruz do Capibaribe,Santa Cruz do Capibaribe,-7.9575,-36.20472,76450
+1700,Upland,Upland,34.09751,-117.64839,76443
+1701,Guigang,Guigang,23.09639,109.60917,76430
+1702,Oss,Oss,51.765,5.51806,76430
+1703,Yuktae-dong,Yuktae-dong,40.02472,128.15972,76427
+1704,Antibes,Antibes,43.56241,7.12777,76393
+1705,Yangliuqing,Yangliuqing,39.1375,116.99972,76387
+1706,Folsom,Folsom,38.67796,-121.17606,76375
+1707,São Sebastião,Sao Sebastiao,-23.76,-45.40972,76367
+1708,Arezzo,Arezzo,43.46276,11.88068,76346
+1709,Jumri Tilaiyā,Jumri Tilaiya,24.4349,85.52951,76341
+1710,Budapest XXI. kerület,Budapest XXI. keruelet,47.43047,19.07098,76339
+1711,Tucuruí,Tucurui,-3.76585,-49.67923,76337
+1712,Baytown,Baytown,29.7355,-94.97743,76335
+1713,Furukawa,Furukawa,38.57167,140.95556,76312
+1714,Embu Guaçu,Embu Guacu,-23.83222,-46.81139,76310
+1715,Latina,Latina,41.46614,12.9043,76305
+1716,Masvingo,Masvingo,-20.06373,30.82766,76290
+1717,Mineralnye Vody,Mineralnye Vody,44.21028,43.13528,76280
+1718,Babahoyo,Babahoyo,-1.80217,-79.53443,76279
+1719,Kumanovo,Kumanovo,42.13222,21.71444,76275
+1720,Midyat,Midyat,37.41908,41.33909,76268
+1721,Lae,Lae,-6.72208,146.98469,76255
+1722,Matara,Matara,5.94851,80.53528,76254
+1723,Nahāvand,Nahavand,34.19088,48.37446,76250
+1724,Tuban,Tuban,-6.8976,112.0649,76242
+1725,Repentigny,Repentigny,45.74222,-73.45008,76237
+1726,Sakon Nakhon,Sakon Nakhon,17.16116,104.14725,76237
+1727,Miān Channūn,Mian Channun,30.44004,72.35431,76226
+1728,Paisley,Paisley,55.83173,-4.43254,76220
+1729,Mbabane,Mbabane,-26.31667,31.13333,76218
+1730,Baj Baj,Baj Baj,22.47514,88.17767,76159
+1731,Qingquan,Qingquan,30.45113,115.25593,76154
+1732,Viersen,Viersen,51.25435,6.39441,76153
+1733,Birobidzhan,Birobidzhan,48.79284,132.92386,76146
+1734,San Ramon,San Ramon,37.77993,-121.97802,76134
+1735,Camden,Camden,39.92595,-75.11962,76119
+1736,Bracknell,Bracknell,51.41363,-0.75054,76103
+1737,Konnagar,Konnagar,22.70508,88.34446,76082
+1738,Lake Charles,Lake Charles,30.21309,-93.2044,76070
+1739,Sapiranga,Sapiranga,-29.63806,-51.00694,76051
+1740,Kalamazoo,Kalamazoo,42.29171,-85.58723,76041
+1741,Parádsasvár,Paradsasvar,47.9126,19.97709,76000
+1742,Fort McMurray,Fort McMurray,56.72676,-111.38103,76000
+1743,Nagornyy,Nagornyy,55.65,37.61667,76000
+1744,Palmerston North,Palmerston North,-40.35636,175.61113,75996
+1745,Ratnagiri,Ratnagiri,16.99154,73.31022,75986
+1746,Kebomas,Kebomas,-7.16667,112.6333,75982
+1747,Pazardzhik,Pazardzhik,42.2,24.33333,75977
+1748,Savé,Save,8.03424,2.4866,75970
+1749,Arlington Heights,Arlington Heights,42.08836,-87.98063,75926
+1750,San Sebastián de los Reyes,San Sebastian de los Reyes,40.55555,-3.62733,75912
+1751,Plymouth,Plymouth,45.01052,-93.45551,75907
+1752,San Martin Texmelucan de Labastida,San Martin Texmelucan de Labastida,19.28431,-98.43885,75903
+1753,Maymana,Maymana,35.92139,64.78361,75900
+1754,Delmenhorst,Delmenhorst,53.0511,8.63091,75893
+1755,Lintong,Lintong,34.37803,109.20892,75882
+1756,La Libertad,La Libertad,-2.233,-80.91039,75881
+1757,Hingoli,Hingoli,19.71464,77.14238,75878
+1758,Peterborough,Peterborough,44.30012,-78.31623,75877
+1759,Ciudad Choluteca,Ciudad Choluteca,13.30028,-87.19083,75872
+1760,Khemis Miliana,Khemis Miliana,36.26104,2.22015,75865
+1761,Karangsembung,Karangsembung,-6.8487,108.6422,75856
+1762,H̱adera,Hadera,32.44192,34.9039,75854
+1763,Laixi,Laixi,36.85917,120.52694,75849
+1764,Kamensk-Shakhtinskiy,Kamensk-Shakhtinskiy,48.31779,40.25948,75814
+1765,Bayramaly,Bayramaly,37.61852,62.16715,75797
+1766,Newcastle under Lyme,Newcastle under Lyme,53,-2.23333,75794
+1767,Pará de Minas,Para de Minas,-19.86028,-44.60833,75786
+1768,Shimada,Shimada,34.81667,138.18333,75781
+1769,Belovo,Belovo,54.4165,86.2976,75764
+1770,Takefu,Takefu,35.90393,136.16687,75753
+1771,Tarub,Tarub,-6.93333,109.16667,75739
+1772,Waterford,Waterford,42.69303,-83.41181,75737
+1773,Iğdır,Igdir,39.92371,44.045,75721
+1774,Muan,Muan,34.99014,126.47899,75718
+1775,Jalal-Abad,Jalal-Abad,40.93333,73,75700
+1776,Turbat,Turbat,26.00122,63.04849,75694
+1777,Bodināyakkanūr,Bodinayakkanur,10.01171,77.34976,75680
+1778,Yinzhu,Yinzhu,35.87861,119.97528,75656
+1779,Khadki,Khadki,18.5635,73.85205,75654
+1780,Battersea,Battersea,51.47475,-0.15547,75651
+1781,Chekhov,Chekhov,55.1477,37.47728,75643
+1782,Bihać,Bihac,44.81694,15.87083,75641
+1783,Jamjamāl,Jamjamal,35.53356,44.8343,75634
+1784,Battaramulla South,Battaramulla South,6.8964,79.9181,75633
+1785,Batu,Batu,-7.87,112.52833,75631
+1786,Dhrāngadhra,Dhrangadhra,22.99167,71.46793,75578
+1787,Crewe,Crewe,53.09787,-2.44161,75556
+1788,Piła,Pila,53.15145,16.73782,75532
+1789,Nevşehir,Nevsehir,38.625,34.71222,75527
+1790,Evanston,Evanston,42.04114,-87.69006,75527
+1791,Chatham,Chatham,51.37891,0.52786,75509
+1792,Nizhyn,Nizhyn,51.04801,31.88688,75499
+1793,Szolnok,Szolnok,47.18333,20.2,75474
+1794,Ode,Ode,7.7899,5.7117,75463
+1795,Manteca,Manteca,37.79743,-121.21605,75448
+1796,Schiedam,Schiedam,51.91917,4.38889,75438
+1797,Reinickendorf,Reinickendorf,52.56667,13.33333,75414
+1798,Shahdād Kot,Shahdad Kot,27.84726,67.90679,75411
+1799,Saint-Maur-des-Fossés,Saint-Maur-des-Fosses,48.79395,2.49323,75402
+1800,Campo Mourão,Campo Mourao,-24.04309,-52.37929,75401
+1801,Kendall,Kendall,25.67927,-80.31727,75371
+1802,Ulu Tiram,Ulu Tiram,1.6,103.81667,75350
+1803,Chaoyang,Chaoyang,42.66223,126.0263,75347
+1804,Azzaba,Azzaba,36.73944,7.10528,75317
+1805,Silifke,Silifke,36.37778,33.93444,75315
+1806,Mysłowice,Myslowice,50.20745,19.16668,75281
+1807,Wyoming,Wyoming,42.91336,-85.70531,75275
+1808,Kruševac,Krusevac,43.58,21.33389,75256
+1809,Hongch’ŏn,Hongch'on,37.6918,127.8857,75251
+1810,Kampong Chhnang,Kampong Chhnang,12.25,104.66667,75244
+1811,Shangmei,Shangmei,27.74278,111.29556,75233
+1812,Pāloncha,Paloncha,17.60184,80.70509,75224
+1813,Igbo-Ukwu,Igbo-Ukwu,6.01798,7.02027,75224
+1814,Loveland,Loveland,40.39776,-105.07498,75182
+1815,Cheektowaga,Cheektowaga,42.90339,-78.75475,75178
+1816,Hove,Hove,50.83088,-0.1672,75174
+1817,Fuyu,Fuyu,47.79756,124.45731,75147
+1818,Kings Bridge,Kings Bridge,40.87871,-73.90514,75132
+1819,Kitale,Kitale,1.01572,35.00622,75123
+1820,Pedro Juan Caballero,Pedro Juan Caballero,-22.54722,-55.73333,75109
+1821,Quibdó,Quibdo,5.69188,-76.65835,75104
+1822,Kpalimé,Kpalime,6.9,0.63333,75084
+1823,Cipolletti,Cipolletti,-38.93392,-67.99032,75078
+1824,Okegawa,Okegawa,36,139.55722,75062
+1825,Bayreuth,Bayreuth,49.94782,11.57893,75061
+1826,Dakhla,Dakhla,23.68477,-15.95798,75000
+1827,Củ Chi,Cu Chi,10.97333,106.49325,75000
+1828,Spijkenisse,Spijkenisse,51.845,4.32917,74988
+1829,Encarnación,Encarnacion,-27.33056,-55.86667,74983
+1830,Perris,Perris,33.78252,-117.22865,74971
+1831,Haninge,Haninge,59.16775,18.14478,74968
+1832,Sault Ste. Marie,Sault Ste. Marie,46.51677,-84.33325,74948
+1833,Ben Arous,Ben Arous,36.75306,10.21889,74932
+1834,Ar Ramthā,Ar Ramtha,32.55873,36.00816,74901
+1835,Bethlehem,Bethlehem,40.62593,-75.37046,74892
+1836,Alvand,Alvand,36.3187,49.1678,74889
+1837,Gävle,Gaevle,60.67452,17.14174,74884
+1838,Gūdūr,Gudur,14.15093,79.8521,74851
+1839,Hellersdorf,Hellersdorf,52.53319,13.6088,74847
+1840,Albany,Albany,31.57851,-84.15574,74843
+1841,Huilong,Huilong,31.81111,121.655,74818
+1842,Keren,Keren,15.77792,38.45107,74800
+1843,Silopi,Silopi,37.24379,42.46345,74798
+1844,Beidao,Beidao,34.56861,105.89333,74767
+1845,Sidi Qacem,Sidi Qacem,34.22149,-5.70775,74755
+1846,Troisdorf,Troisdorf,50.80901,7.14968,74749
+1847,Aylesbury,Aylesbury,51.81665,-0.81458,74748
+1848,Bhalwāl,Bhalwal,32.27204,72.90425,74744
+1849,Ankleshwar,Ankleshwar,21.63236,72.99001,74742
+1850,East Kilbride,East Kilbride,55.76412,-4.17669,74740
+1851,Helmond,Helmond,51.48167,5.66111,74740
+1852,Yanggu,Yanggu,36.11056,115.77528,74725
+1853,Tīkamgarh,Tikamgarh,24.74327,78.83061,74724
+1854,Sungailiat,Sungailiat,-1.85442,106.12215,74719
+1855,Miki,Miki,34.8,134.98333,74701
+1856,Cachoeira do Sul,Cachoeira do Sul,-30.03917,-52.89389,74694
+1857,Schaumburg,Schaumburg,42.03336,-88.08341,74693
+1858,Changnyeong,Changnyeong,35.54145,128.49506,74668
+1859,Gobernador Gálvez,Gobernador Galvez,-33.03016,-60.64045,74650
+1860,Dīpālpur,Dipalpur,30.66984,73.65306,74640
+1861,António Enes,Antonio Enes,-16.2325,39.90861,74624
+1862,Al Bayḑā’,Al Bayda',32.76272,21.75506,74594
+1863,Asbest,Asbest,57.00993,61.45776,74583
+1864,Gastonia,Gastonia,35.26208,-81.1873,74543
+1865,Brownsville,Brownsville,40.66094,-73.92014,74497
+1866,Union City,Union City,37.59577,-122.01913,74494
+1867,Bismil,Bismil,37.84514,40.65931,74493
+1868,Aramoko-Ekiti,Aramoko-Ekiti,7.70483,5.04054,74491
+1869,Shancheng,Shancheng,34.79528,116.08167,74459
+1870,Calais,Calais,50.95194,1.85635,74433
+1871,Gießen,Giessen,50.58727,8.67554,74411
+1872,Nanma,Nanma,36.18478,118.15486,74406
+1873,Srivilliputhur,Srivilliputhur,9.51272,77.63369,74370
+1874,Bolingbrook,Bolingbrook,41.69864,-88.0684,74306
+1875,Darhan,Darhan,49.48667,105.92278,74300
+1876,Newmarket,Newmarket,44.05011,-79.46631,74295
+1877,Bosaso,Bosaso,11.28421,49.18158,74287
+1878,Sivakasi,Sivakasi,9.44999,77.79797,74282
+1879,Ferrol,Ferrol,43.48961,-8.2194,74273
+1880,Iowa City,Iowa City,41.66113,-91.53017,74220
+1881,Mackay,Mackay,-21.15345,149.16554,74219
+1882,Pilkhua,Pilkhua,28.71271,77.656,74212
+1883,Seosan,Seosan,36.78167,126.45222,74208
+1884,Khalándrion,Khalandrion,38.02369,23.80068,74192
+1885,Vélez-Málaga,Velez-Malaga,36.78107,-4.10266,74190
+1886,Petarukan,Petarukan,-6.88333,109.43333,74188
+1887,Abéché,Abeche,13.82916,20.8324,74188
+1888,Suixi,Suixi,33.89067,116.77473,74172
+1889,Layton,Layton,41.06022,-111.97105,74143
+1890,Xinmin,Xinmin,41.99083,122.82528,74139
+1891,Appleton,Appleton,44.26193,-88.41538,74139
+1892,Missouri City,Missouri City,29.61857,-95.53772,74139
+1893,Igbara-Odo,Igbara-Odo,7.50251,5.06258,74121
+1894,Ambājogāi,Ambajogai,18.73312,76.38616,74114
+1895,Mbaké,Mbake,14.79032,-15.90803,74100
+1896,Shelby,Shelby,42.67087,-83.03298,74099
+1897,Fuentes del Valle,Fuentes del Valle,19.6325,-99.13861,74087
+1898,Béziers,Beziers,43.34122,3.21402,74081
+1899,San Ramón de la Nueva Orán,San Ramon de la Nueva Oran,-23.13705,-64.32426,74059
+1900,Gucheng Chengguanzhen,Gucheng Chengguanzhen,32.26604,111.63476,74038
+1901,Xianshuigu,Xianshuigu,38.985,117.38278,74028
+1902,Standerton,Standerton,-26.93366,29.24152,74021
+1903,Riberalta,Riberalta,-11.00654,-66.06312,74014
+1904,Ciudad Real,Ciudad Real,38.98626,-3.92907,74014
+1905,Fort Myers,Fort Myers,26.62168,-81.84059,74013
+1906,Inuyama,Inuyama,35.37995,136.94295,73995
+1907,Bela,Bela,25.92058,81.99629,73992
+1908,Ostrowiec Świętokrzyski,Ostrowiec Swietokrzyski,50.92936,21.38525,73989
+1909,Boynton Beach,Boynton Beach,26.52535,-80.06643,73966
+1910,Santo Antônio de Jesus,Santo Antonio de Jesus,-12.96889,-39.26139,73957
+1911,Bocholt,Bocholt,51.83879,6.61531,73943
+1912,Bodhan,Bodhan,18.66208,77.88581,73938
+1913,San Miguel de Cozumel,San Miguel de Cozumel,20.501,-86.94598,73934
+1914,Yunyang,Yunyang,33.44743,112.71422,73922
+1915,Jonesboro,Jonesboro,35.8423,-90.70428,73907
+1916,Khenifra,Khenifra,32.93492,-5.66167,73906
+1917,Inhambane,Inhambane,-23.865,35.38333,73884
+1918,Kortrijk,Kortrijk,50.82803,3.26487,73879
+1919,Gela,Gela,37.07381,14.24038,73854
+1920,Rabkavi,Rabkavi,16.47567,75.1106,73835
+1921,Pistoia,Pistoia,43.93064,10.92365,73832
+1922,Chimbas,Chimbas,-31.48333,-68.53333,73829
+1923,Prilep,Prilep,41.34514,21.55504,73814
+1924,Ozubulu,Ozubulu,5.95753,6.85305,73812
+1925,Vlaardingen,Vlaardingen,51.9125,4.34167,73798
+1926,Mijas,Mijas,36.59575,-4.63728,73787
+1927,Grand-Bassam,Grand-Bassam,5.2118,-3.73884,73772
+1928,Aku,Aku,6.70902,7.31826,73742
+1929,Guixi,Guixi,28.28857,117.21329,73732
+1930,Kafr az Zayyāt,Kafr az Zayyat,30.8248,30.81805,73725
+1931,Karauli,Karauli,26.49831,77.02755,73717
+1932,Lanxi,Lanxi,29.21588,119.47156,73706
+1933,Chiautla,Chiautla,19.54895,-98.88236,73696
+1934,Detmold,Detmold,51.93855,8.87318,73680
+1935,Al Buraymī,Al Buraymi,24.25088,55.79312,73670
+1936,Victoria,Victoria,5.27667,115.24167,73653
+1937,Salina Cruz,Salina Cruz,16.18405,-95.20143,73648
+1938,Genhe,Genhe,50.78333,121.51667,73631
+1939,Gresik,Gresik,-7.15389,112.65611,73629
+1940,Oyan,Oyan,8.05,4.76667,73622
+1941,Shāhābād,Shahabad,27.6431,79.9402,73606
+1942,Red Deer,Red Deer,52.26682,-113.802,73593
+1943,Sewon,Sewon,-7.87639,110.35889,73585
+1944,Luocheng,Luocheng,29.38481,104.02862,73581
+1945,Rapid City,Rapid City,44.08054,-103.23101,73569
+1946,Badin,Badin,24.656,68.837,73569
+1947,Kamina,Kamina,-8.73508,24.99798,73557
+1948,Chāndpur,Chandpur,29.13489,78.27187,73555
+1949,Nūrābād,Nurabad,34.0734,47.9725,73528
+1950,Naqadeh,Naqadeh,36.9553,45.388,73528
+1951,Jega,Jega,12.22219,4.37963,73495
+1952,Warner Robins,Warner Robins,32.61574,-83.62664,73490
+1953,Gokak,Gokak,16.16901,74.82393,73478
+1954,Melilla,Melilla,35.29369,-2.93833,73460
+1955,Rochester Hills,Rochester Hills,42.65837,-83.14993,73424
+1956,Saint-Léonard,Saint-Leonard,45.58773,-73.59501,73423
+1957,Canary Wharf,Canary Wharf,51.50519,-0.02085,73390
+1958,Sikandarābād,Sikandarabad,28.45226,77.70004,73379
+1959,Asaba,Asaba,6.19824,6.73187,73374
+1960,Kukichūō,Kukichuo,36.06739,139.67498,73373
+1961,Aguachica,Aguachica,8.30844,-73.6166,73360
+1962,Ohafia-Ifigh,Ohafia-Ifigh,5.61455,7.81191,73355
+1963,Mpanda,Mpanda,-6.34379,31.06951,73338
+1964,Juegang,Juegang,32.31737,121.18552,73317
+1965,Virudunagar,Virudunagar,9.58509,77.95787,73273
+1966,Bonao,Bonao,18.93687,-70.40923,73269
+1967,Cuamba,Cuamba,-14.80306,36.53722,73268
+1968,Belek,Belek,36.86278,31.05556,73260
+1969,Decatur,Decatur,39.84031,-88.9548,73254
+1970,Paysandú,Paysandu,-32.32139,-58.07556,73249
+1971,Tatvan,Tatvan,38.49221,42.28269,73222
+1972,General Roca,General Roca,-39.03333,-67.58333,73212
+1973,Kawit,Kawit,14.44426,120.90164,73210
+1974,Peterhof,Peterhof,59.88333,29.9,73199
+1975,Taman Senai,Taman Senai,1.6006,103.6419,73176
+1976,Southfield,Southfield,42.47337,-83.22187,73156
+1977,Rugby,Rugby,52.37092,-1.26417,73150
+1978,Satsumasendai,Satsumasendai,31.81667,130.3,73132
+1979,Tamanrasset,Tamanrasset,22.785,5.52278,73128
+1980,Siemianowice Śląskie,Siemianowice Slaskie,50.32738,19.02901,73121
+1981,Hanamaki,Hanamaki,39.38333,141.11667,73115
+1982,Kâhta,Kahta,37.78552,38.6237,73105
+1983,Novomoskovs’k,Novomoskovs'k,48.63799,35.24548,73100
+1984,Zhlobin,Zhlobin,52.8926,30.024,73089
+1985,Néa Smýrni,Nea Smyrni,37.94504,23.71416,73076
+1986,Joypur Hāt,Joypur Hat,25.10147,89.02734,73068
+1987,Araure,Araure,9.56009,-69.21475,73054
+1988,Dausa,Dausa,26.89,76.33584,73034
+1989,Jatibarang,Jatibarang,-6.47472,108.31528,73010
+1990,Zugdidi,Zugdidi,42.5088,41.87088,73006
+1991,Shixing,Shixing,24.94824,114.06572,72996
+1992,Koch'ang,Koch'ang,35.43333,126.7,72996
+1993,Qaraçuxur,Qaracuxur,40.39667,49.97361,72989
+1994,Rubí,Rubi,41.49226,2.03305,72987
+1995,Móng Cái,Mong Cai,21.52471,107.96619,72960
+1996,Dongdu,Dongdu,35.85,117.7,72957
+1997,Balanga,Balanga,14.67611,120.53611,72954
+1998,San Juan de la Maguana,San Juan de la Maguana,18.80588,-71.22991,72950
+1999,Tetovo,Tetovo,42.00973,20.97155,72944
+2000,Valsād,Valsad,20.61013,72.93428,72929

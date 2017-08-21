@@ -1,0 +1,29 @@
+Data preparation procedure 
+
+preparation for .m file as imput
+1)
+id_proto()
+%% Input file structure
+%%a numeric csv file with Column structure
+%%              [id(numeric), latitide, longitude]
+%%this script is data preparation for calculating betweenness centrality
+%%
+%%output format:
+%%		[source id, target id, distance_in_m, directed_or_not(0 or 1)]
+2)
+circles_on_map_sph()
+%%Input csv file with id(numeric), lat, lng columns
+%%read csv as array [id, lat, lng]
+%%
+%%This script works as preparation for tableau polygon mark input. it will provide data for tableau to draw point buffer(area).
+%%output format:
+%%		[id(numeric), circle_latitide, circle_longitude, connection_order]
+
+
+use of trifacta and excel
+
+	combine different dataset.
+	becareful about id when applying union transformation in trifata or copy and past in excel
+	csv output by trifacta will be in quotes, thus is not acceptable by MATLAB
+	saving the csv file again using excel will solve this
+	Gephi need the first line of a csv file to be column name (field name), add the first row in notepad or in excel before using gephi
